@@ -12,7 +12,7 @@ Algo más tarde, Renata al Shusi’s para ponerse al día con Jack y le cuenta s
 
 En los días siguientes, Cassandra introduce a Emi a Claire Brown,enfermera y encargada de las donaciones de sangre. Emi pasa su primer día intentando captar donantes, pero al final de la jornada, dos hombres armados aparecen para recoger las donaciones de los últimos dos días. En sus trajes se puede leer el nombre de la empresa: Phoenix’s Blood Bank. Mientras tanto, Jack gasta parte del dinero del grupo en montar una cámara secreta para vigilar los negocios de Sarah Martell.
 
-Por la noche, Matt tiene una conversación con su padre, quien es concejal, sobre la desaparición del sheriff. Aunque no obtiene mucha información, descubre que el sheriff fue a Nueva York para un curso. Con esta pista, los chicos deciden investigar más a fondo a Sarah Martell, comenzando por su club de intercambio.
+Por la noche, Matt tiene una conversación con su padre, quien es concejal, sobre la desaparición del sheriff. Aunque no obtiene mucha información, descubre que el sheriff fue a los Ángeles para un curso. Con esta pista, los chicos deciden investigar más a fondo a Sarah Martell, comenzando por su club de intercambio.
 
 Pasan unos días y cuando la cámara está lista, los chicos se preparan para infiltrarse en el club de Sarah. Emily pone especial esfuerzo en parecer más adulta para pasar desapercibida. En el local, logran instalar la cámara sin ser detectados. Mientras esperan, Emily conoce a un joven con el que termina pasando un rato en una de las habitaciones. Matt, a pesar de las protestas de Jack, graba parte de lo que ocurre, por si les es útil más adelante. Durante esta cita, Emily prueba speed por curiosidad, pero la interrumpen cuando los chicos, preocupados por su mensaje de que iba a tomar drogas, la sacan del lugar. Aunque Emily queda un poco atontada, se vuelve más rápida y ágil.
 
@@ -36,7 +36,7 @@ Durante los días siguientes Cassandra presenta a Emi a Claire Brown, la enferma
 
 Jack gasta algo del dinero de la Célula en montar una cámara secreta que puedan poner en el local de Sarah Martell para vigilar sus negocios.
 
-Por la tarde Matt habla con su padre mientras ven el football. El padre es concejal y podría tener más información sobre la desaparición del sheriff, pero lo único que sabe es que el sheriff se ha ido a hacer un curso a Nueva York.
+Por la tarde Matt habla con su padre mientras ven el football. El padre es concejal y podría tener más información sobre la desaparición del sheriff, pero lo único que sabe es que el sheriff se ha ido a hacer un curso a los Ángeles.
 
 ### Local de intercambio
 Por la noche los chicos preparan sus mejores pintas para ir al local y parecer más adultos. Emily tiene que poner bastante esfuerzo en esto.
