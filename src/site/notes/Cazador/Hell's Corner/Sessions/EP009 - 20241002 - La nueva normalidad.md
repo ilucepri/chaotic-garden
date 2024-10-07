@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/cazador/hell-s-corner/sessions/ep-009-20241002-la-nueva-normalidad/"}
 ---
 
+[[Cazador/Hell's Corner/Index\|← Volver al Index]]
+
+---
 ### Resumen
 
 La sesión comienza con los chicos poniéndose al día mientras meriendan en el restaurante Shusi’s. Durante la conversación, deciden que usarán el dinero de la Célula para sus casos paranormales. Jack menciona que Warren le ha dado acceso a parte de su base de datos, lo que podría ser clave para futuras investigaciones. Posteriormente, cada uno se compromete a realizar distintas tareas: Matt organizará una fiesta en la casa del lago, Jack hablará con Renata, y Emily decide ayudar a Cassandra con las extracciones de sangre.
