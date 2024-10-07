@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/cazador/hell-s-corner/hell-s-corner/"}
 ---
 
-
 ### Célula
 [[Cazador/Hell's Corner/Emily Davis/Emily Davis\|Emily Davis]]
 [[Matt Baker\|Matt Baker]]
