@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/cazador/hell-s-corner/sessions/ep-009-20241002-la-nueva-normalidad/"}
 ---
 
+#rol #cazador #cazador/sesiones #HellsCorner
+
 [[Cazador/Hell's Corner/Index\|← Volver al Index]]
 
 ---

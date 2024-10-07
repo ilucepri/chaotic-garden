@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/cazador/hell-s-corner/sessions/ep-008-20240927-asesinatos-en-el-bosque/"}
 ---
 
+#rol #cazador #cazador/sesiones #HellsCorner
+
 [[Cazador/Hell's Corner/Index\|← Volver al Index]]
 
 ---
