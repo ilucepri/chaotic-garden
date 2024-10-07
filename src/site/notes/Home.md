@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-# Hola mundo
+# Roles
 
-probando probando
+Aquí tendré un Index para los roles que tengo ahora mismo en vivo, que como ponga todos los que he hecho igual me da un patatús.
+
+[[DnD/Oro sobre Plata/Oro Sobre Plata\|Oro Sobre Plata]] - Dungeons & Dragons 5e
+[[Cazador/Hell's Corner/Hell's Corner\|Hell's Corner]] - Cazador 5e
