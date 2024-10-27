@@ -83,7 +83,7 @@ Mujer alta, corpulenta, curvilínea, pelo azabache y ojos verdes. Complexión mo
 **Janzu  - Andrea:** 
 - Q: Entre todos los humanoides, ¿cuáles son los que más te han molestado?
 - A: Humanos, son demasiados e insoportables. Exterminio ayer.
-- D: Calzareinat me quite mis dotes mágicas si miento.
+- D: Kalzareinad me quite mis dotes mágicas si miento.
 
 **Andrea - Venti:** 
 - Q: Qué anhelas en la vida por encima de todas las cosas?
@@ -142,7 +142,7 @@ Ondrur está cabreada.
 **ALFRED - Andrea.**
 - Q: ¿Qué sabes de los ilícidos al sur del Alto Bosque?
 - A: Primera noticia.
-- D: Zorkan???? le transforme en humana.
+- D: Zorquan le transforme en humana.
 
 **Andrea - Venti:** 
 - Q: ¿Ilícidos al sur del Alto Bosque?
@@ -178,7 +178,7 @@ Parece que sigue igual de entera que siempre.
 **Drakhan - Andrea:** 
 - Q: ¿Y por qué casi mejor?
 - A: Los padres orcos son muy malos ejemplos.
-- D: Calzareinat??? esta señora se está inventando dioses.
+- D: Kalzareinad asole su guarida.
 
 **Andrea - Leia:** 
 - Q: ¿Sabéis dónde vivo?
