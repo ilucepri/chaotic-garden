@@ -7,6 +7,8 @@
 [[DnD/Oro sobre Plata/Index\|← Volver al Index]]
 
 ---
+20 khes 1373
+
 Venti llegó hasta Neverloom siguiendo el rastro de su hermano. Cogió el camino del rey hacia [[Lunargenta\|Lunargenta]]. En la entrada de la ciudad se encontró un micónido llamado [[Agáricus\|Agáricus]] que lo llevo hasta el resto de la [[Compañía del Oso\|Compañía del Oso]], que está entrando en lo que parece un tumulario.
 
 Se lee una inscripción:

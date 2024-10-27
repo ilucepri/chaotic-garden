@@ -4,7 +4,7 @@
 
 ### La Compañía del Oso
 [[Leia\|Leia]]
-[[DnD/Oro sobre Plata/Personajes/Janzu\|Janzu]]
+[[DnD/Oro sobre Plata/Personajes/La compañía del Oso/Janzu\|Janzu]]
 [[Drakhan\|Drakhan]]
 [[Agáricus\|Agáricus]]
 [[A.L.F.R.E.D.\|A.L.F.R.E.D.]]
@@ -41,4 +41,6 @@
 - [[DnD/Oro sobre Plata/Sesiones/EP027 - 20240730 - Huída de Orlbar. ¡Adiós, Agáricus!\|EP027 - 20240730 - Huída de Orlbar. ¡Adiós, Agáricus!]]
 - [[DnD/Oro sobre Plata/Sesiones/EP028 - 20240910 - La misión de Jarlaxle\|EP028 - 20240910 - La misión de Jarlaxle]]
 - [[DnD/Oro sobre Plata/Sesiones/EP029 - 20240924 - La dragona con piel de humana\|EP029 - 20240924 - La dragona con piel de humana]]
-
+- [[DnD/Oro sobre Plata/Sesiones/EP030 - 20241008 - El puente mágico anti-dragones\|EP030 - 20241008 - El puente mágico anti-dragones]]
+- [[DnD/Oro sobre Plata/Sesiones/EP031 - 20241015 - Maldiciones entre borrachos\|EP031 - 20241015 - Maldiciones entre borrachos]]
+- [[DnD/Oro sobre Plata/Sesiones/EP032 - 20241029\|EP032 - 20241029]]
