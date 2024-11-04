@@ -103,3 +103,11 @@ WIS falla, CON también!! (se quita un punto de borrachera!! 0)
 - El último trago le ha afectado y suda al contestar.
 - A: Joya de su acopio la valora por encima de todo
 - D: Sarrio
+
+#### Nivel de borrachera: 
+- Drakhan: 0
+- Venti: +3
+- Leia: +3
+- Janzu: +2
+- ALFRED: +2
+Todos hemos fallado WIS
