@@ -187,8 +187,8 @@ Parece que sigue igual de entera que siempre.
 - CON fallada!
 
 #### Nivel de borrachera: 
-- Drakhan: +1 (ha pasado todas las de WIS)
-- Venti: +2
-- Leia: +2
-- Janzu: 0
-- ALFRED: +1 (ha pasado todas las de WIS)
+- Drakhan: 0
+- Venti: +3
+- Leia: +3
+- Janzu: +2
+- ALFRED: +1

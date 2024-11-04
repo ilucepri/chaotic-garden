@@ -43,4 +43,4 @@
 - [[DnD/Oro sobre Plata/Sesiones/EP029 - 20240924 - La dragona con piel de humana\|EP029 - 20240924 - La dragona con piel de humana]]
 - [[DnD/Oro sobre Plata/Sesiones/EP030 - 20241008 - El puente mágico anti-dragones\|EP030 - 20241008 - El puente mágico anti-dragones]]
 - [[DnD/Oro sobre Plata/Sesiones/EP031 - 20241015 - Maldiciones entre borrachos\|EP031 - 20241015 - Maldiciones entre borrachos]]
-- [[DnD/Oro sobre Plata/Sesiones/EP032 - 20241029\|EP032 - 20241029]]
+- [[DnD/Oro sobre Plata/Sesiones/EP032 - 20241029 - Secretos y susurros\|EP032 - 20241029 - Secretos y susurros]]
