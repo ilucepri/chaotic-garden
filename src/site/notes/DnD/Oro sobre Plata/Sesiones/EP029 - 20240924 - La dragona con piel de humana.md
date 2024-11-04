@@ -57,7 +57,7 @@ El bioarma nos lo quedamos por ahora pero si encontramos un comprador se la qued
 Sobre los orcos no hay mucha información. El reino se está portando. Hay muchas tribus congregándose en la falda de la montaña.
 La última vez fue Obould el avatar de Gruumsh el que las congregó y no hay muy buenos recuerdos.
 
-Nos cuenta que Andre está en el [[DnD/Oro sobre Plata/Lugares/Lunargentea/Florecer de Plata\|Florecer de Plata]]
+Nos cuenta que Andrea está en el [[DnD/Oro sobre Plata/Lugares/Lunargentea/Florecer de Plata\|Florecer de Plata]]
 
 Sobre el atentado: Mucho racismo para los enanos y es extraño porque esta ciudad es muy abierta. 
 En la ciudadela de Sundabar y Felbar también ha habido atentados hechos por drows, elfos...

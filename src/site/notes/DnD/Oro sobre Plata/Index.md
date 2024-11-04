@@ -7,7 +7,7 @@
 [[DnD/Oro sobre Plata/Personajes/La compañía del Oso/Janzu\|Janzu]]
 [[Drakhan\|Drakhan]]
 [[Agáricus\|Agáricus]]
-[[A.L.F.R.E.D.\|A.L.F.R.E.D.]]
+[[DnD/Oro sobre Plata/Personajes/La compañía del Oso/ALFRED\|ALFRED]]
 [[Venti Fortunati.canvas|Venti Fortunati]]
 
 ### Sesiones

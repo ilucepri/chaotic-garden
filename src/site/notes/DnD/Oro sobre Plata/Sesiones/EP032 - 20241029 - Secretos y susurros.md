@@ -60,7 +60,7 @@
 - D: Crea
 
 **Andrea - Leia:**
-- Q: ¿Habéis tenido trato con los [[Mil Puños\|Mil Puños]]?
+- Q: ¿Habéis tenido trato con los [[DnD/Oro sobre Plata/Personajes/Mil Puños\|Mil Puños]]?
 - A: No recuerdo si tenemos trato con ellos pero sabemos de su i
 - Leia no pasa CON (+3)
 

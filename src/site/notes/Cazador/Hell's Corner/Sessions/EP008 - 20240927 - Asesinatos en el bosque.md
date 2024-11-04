@@ -7,7 +7,7 @@
 [[Cazador/Hell's Corner/Index\|← Volver al Index]]
 
 ---
-### Resumen
+## Resumen
 
 Después de la cita de Cassie y Sam estuvimos investigando las respuestas físicas de Ulysses, que está ultra lento. Matt y Zack se cambiaron de cuarto porque a Matt le daba mal rollito.
 
