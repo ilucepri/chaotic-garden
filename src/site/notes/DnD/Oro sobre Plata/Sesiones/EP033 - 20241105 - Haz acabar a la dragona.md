@@ -128,7 +128,7 @@ Empezamos ritual
 
 Venti tira carisma y salva GRACIAS A DIOS
 
-> [!Visión dragónica]
+> [!DragonPOV]
 > Se ve a sí misma… una dragona poderosa, aunque no especialmente grande, en su juventud, en su propio mundo. Algo le extrae de ese mundo y le lleva a otro. Tras investigar este nuevo lugar, descubre que es la dragona más grande de ese nuevo mundo. 
 > Con el tiempo, va acumulando poder a lo largo de los eones, forjando un vasto imperio, mucho más grande que cualquiera que ese mundo haya presenciado.
 > 
