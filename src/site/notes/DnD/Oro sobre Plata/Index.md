@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/dn-d/oro-sobre-plata/index/"}
 ---
 
+## Faerun
+[Mapa](1. [https://loremaps.azurewebsites.net/Maps/Faerun](https://loremaps.azurewebsites.net/Maps/Faerun "https://loremaps.azurewebsites.net/Maps/Faerun"))
+
 ### La Compañía del Oso
 [[Leia\|Leia]]
 [[DnD/Oro sobre Plata/Personajes/La compañía del Oso/Janzu\|Janzu]]
