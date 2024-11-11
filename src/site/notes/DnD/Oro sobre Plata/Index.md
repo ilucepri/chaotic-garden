@@ -44,3 +44,5 @@
 - [[DnD/Oro sobre Plata/Sesiones/EP030 - 20241008 - El puente mágico anti-dragones\|EP030 - 20241008 - El puente mágico anti-dragones]]
 - [[DnD/Oro sobre Plata/Sesiones/EP031 - 20241015 - Maldiciones entre borrachos\|EP031 - 20241015 - Maldiciones entre borrachos]]
 - [[DnD/Oro sobre Plata/Sesiones/EP032 - 20241029 - Secretos y susurros\|EP032 - 20241029 - Secretos y susurros]]
+- [[DnD/Oro sobre Plata/Sesiones/EP033 - 20241105 - Haz acabar a la dragona\|EP033 - 20241105 - Haz acabar a la dragona]]
+- 

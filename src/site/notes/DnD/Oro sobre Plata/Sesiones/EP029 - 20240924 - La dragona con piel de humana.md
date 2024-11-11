@@ -57,7 +57,7 @@ El bioarma nos lo quedamos por ahora pero si encontramos un comprador se la qued
 Sobre los orcos no hay mucha información. El reino se está portando. Hay muchas tribus congregándose en la falda de la montaña.
 La última vez fue Obould el avatar de Gruumsh el que las congregó y no hay muy buenos recuerdos.
 
-Nos cuenta que Andrea está en el [[DnD/Oro sobre Plata/Lugares/Lunargentea/Florecer de Plata\|Florecer de Plata]]
+Nos cuenta que [[DnD/Oro sobre Plata/Personajes/Dragones/Ondrur\|Andrea]] está en el [[DnD/Oro sobre Plata/Lugares/Lunargentea/Florecer de Plata\|Florecer de Plata]]
 
 Sobre el atentado: Mucho racismo para los enanos y es extraño porque esta ciudad es muy abierta. 
 En la ciudadela de Sundabar y Felbar también ha habido atentados hechos por drows, elfos...
@@ -66,7 +66,6 @@ En la ciudadela de Sundabar y Felbar también ha habido atentados hechos por dro
 - Orcos interesante comprobarlo.
 - Por petición de gente secreta investigar Orlbar (sitio ilícidos)
 - Rumores de que en el desierto Anaurok se ve un dragón azul. Está la carretera negra y que un dragón interrumpa el comercio con las tierras del este es malo.
-
 
 Nevermoor - Linaxo - negro
 Montaña al lado de Silverymoon - rojo

@@ -6,7 +6,8 @@
 
 [[DnD/Oro sobre Plata/Index\|← Volver al Index]]
 
-### Preguntas a Andrea:
+---
+### Preguntas a [[DnD/Oro sobre Plata/Personajes/Dragones/Ondrur\|Andrea]]:
 
 ¡Seguimos con el juego!
 
@@ -99,7 +100,7 @@ WIS falla, CON también!! (se quita un punto de borrachera!! 0)
 - D: Illmater
 
 **Janzu - Andrea:**
-- Q: ¿Cuál es tu posición más preciada?
+- Q: ¿Cuál es tu posesión más preciada?
 - El último trago le ha afectado y suda al contestar.
 - A: Joya de su acopio la valora por encima de todo
 - D: Sarrio

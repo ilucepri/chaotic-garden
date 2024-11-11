@@ -22,3 +22,4 @@
 - [[Cazador/Hell's Corner/Sessions/EP010 - 20241018 - Seres en el bosque\|EP010 - 20241018 - Seres en el bosque]]
 - [[Cazador/Hell's Corner/Sessions/EP011 - 20241023 - En el vientre de la bestia\|EP011 - 20241023 - En el vientre de la bestia]]
 - [[Cazador/Hell's Corner/Sessions/EP012 - 20241030\|EP012 - 20241030]]
+- [[Cazador/Hell's Corner/Sessions/EP013 - 20241108\|EP013 - 20241108]]

@@ -22,16 +22,15 @@ El monóculo le sirve para ver cosas de magia.
 Hay artefactos parecidos a los que le dio al grupo después de hacer una misión.
 El arco de Leia tenía escamas, el estoque de Janzu era verde
 
-Le hablamos de que Ondrur está por el bosque, que es la heredera de la muerte...
+Le hablamos de que [[DnD/Oro sobre Plata/Personajes/Dragones/Ondrur\|Ondrur]] está por el bosque, que es la heredera de la muerte...
 Que todo está agigantado. 
 
-Nos da la información sobre la dragona:
+Nos da la información sobre la dragona :
 Es una superviviente de su madre, Clorhixidrara. Si tiene suerte de heredar estará en las ruinas de Mhiliamnhr. 
 Por el tamaño es adulta, asi que bastante droga...
 Los cromáticos no saben cambiar de forma.
-
 Les gusta manipular
-Yergrin dice que está en Lunargenta por el Mizal. Que es un gran hechizo que defiende de ataques de dragones. No es la primera vez que hay muchos visiones de dragones en la zona.
+Yergrin dice que está en Lunargenta por el Mythal. Que es un gran hechizo que defiende de ataques de dragones. No es la primera vez que hay muchos visiones de dragones en la zona.
 Hay demasiados avistamientos por ahora.
 
 Janzu y Leia se acuerdan de que los bárbaros ya habían hablado de otras veces que la fauna había crecido.
@@ -40,7 +39,7 @@ Los bárbaros de los Evermoor también eran coscientes de ellos.
 Otros dragones provocan otras cosas.
 Al ir al pantano hay muchos insectos y agresivos. Iban a sentir desesperación...eso es de dragones....?
 
-Todo el puente arcoiris es el núcleo del Mizal
+Todo el puente arcoiris es el núcleo del Mythal
 Los salvahechizos tienen una insignia que les permite lanzar hechizos.
 Esta ciudad se formó después de una furia de dragones.
 Se ponen de acuerdo y atacan ciudades.
@@ -63,7 +62,7 @@ El edificio tiene 4 plantas, uno de los más altos de la ciudad.
 Aspecto rococó. Fachada brillante
 Dos guardias armados hasta los dientes y armaduras buenas buenas.
 Demasiado detalle dentro, hasta overwhelming
-Ah´dentro vemos a Andrea y a una drow que nos hace gestos. Un guardia de ella le acompaña.
+Ahí dentro vemos a Andrea y a una drow que nos hace gestos. Un guardia de ella le acompaña.
 Tiene un sujetacapas. Broche de corona de oro rojo y rubíes incrustados. Es una figura importante en la alianza de los lores que es una facción más como los harper.
 Congregación de lores que velan por intereses comunes
 
@@ -77,3 +76,4 @@ Aparece Andrea. El trato es no darme lo que sea si no....que la próxima vez que
 
 Venti salva el día comentándole que tenemos asuntos en otro plano y que no sabemos ni el cambio temporal que pueda a ver. Nos vamos porque hay asuntos perniciosos en los alrededores que tienen que ser acabados. También le cuenta que estuvieron presos por ilícidos y gracias a nuestro compañero micónido pudimos escapar por medio de un portal.
 Andrea les invita a tomar una copa luego.
+

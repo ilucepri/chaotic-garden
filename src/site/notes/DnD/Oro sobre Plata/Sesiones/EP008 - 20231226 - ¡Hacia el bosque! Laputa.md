@@ -15,3 +15,7 @@ por encima de la nube hay torres de aguja inmensas y exquisitas con filigranas y
 Hermana mayor en Kara-Tur: coltello da artista Hermano mayor: Hermano kobold: Piccolo torta Dos hermanas gemelas: Alba Dorata/Crepuscolo Argentato Hermano menor sorcerer: Corvo Stellato Hermana menor: Fuoco infernale / Clériga Hermano menor humano: Kevin (editado)
 
 Le hago tatus a Janzu y a Drakhan!! Janzu vuela y a Drakhan le suma fuerza a sus puños
+
+Garra sobrenatural: Tatuaje de Drakhan
+Alas del Viento: Tatuaje de Janzu
+

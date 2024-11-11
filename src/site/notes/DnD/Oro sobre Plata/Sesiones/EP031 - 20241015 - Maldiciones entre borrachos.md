@@ -9,7 +9,7 @@
 ---
 ### Mediodía en el Florecer de Plata (30 primavera 1273dr)
 
-Andrea nos dice que al anochecer, estará abajo.
+[[DnD/Oro sobre Plata/Personajes/Dragones/Ondrur\|Andrea]] nos dice que al anochecer estará abajo.
 El mediano nos dirige hacia nuestras habitaciones y nos comenta que el contrabando se paga aparte.
 
 Las habitaciones son extremadamente lujosas. Cama con dosel de seda muy lujoso, mantas, almohadas y cojines a tope. De color plateado y algunos tonos dorados.
@@ -52,7 +52,7 @@ Nos vamos a dormir.
 
 Bajamos a la zona de comedor. Andrea está bebiendo con alguien con bigote ostentoso y parece que va a vomitar en dos segundos. Cuando ella nos ve le da una palmadita el hombre y él se va corriendo.
 
-Lady Evelon Uvetah nos dice algo. ¿¿Nos acordaremos al día siguiente??
+[[Lady Evelon Uvetah\|Lady Evelon Uvetah]] nos dice algo. ¿¿Nos acordaremos al día siguiente??
 
 Andrea nos lleva a una sala privada con una mesa enorme llena de bebercio
 - Botellas rojas granates con la etiqueta que pone en élfico "Sangre de Corellon"
