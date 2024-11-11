@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 Los zombies son caballeros argenteos que estaban en la Torre del Grifo

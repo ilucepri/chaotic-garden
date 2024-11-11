@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session 
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 Matamos a todos los tanarukk. Sale el cambion, Venti le da su rapier. Salimos a la superficie y encontramos un orco montado en un lobo enorme

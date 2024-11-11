@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session 
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 estamos en una caverna más ostentosa que el resto. Hay una enorme esfera magenta y azul. Hay 3 túneles y un gran círculo de invocación en el centro, más antiguo que el lugar.

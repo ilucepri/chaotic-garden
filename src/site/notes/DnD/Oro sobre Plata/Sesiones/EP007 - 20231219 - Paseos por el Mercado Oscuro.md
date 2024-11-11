@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session 
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 Micónidos: sus clanes se diferencian por la localización Tienen pensamiento colectivo Hay algunos que tienen cierta individualidad como Agaricus

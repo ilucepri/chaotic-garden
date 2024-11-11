@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session 
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 Armas: Orbe: lanza 2 hechizos Aliento de dragon y rayo del caos Arma: puede hacer que dos dragones se peleen

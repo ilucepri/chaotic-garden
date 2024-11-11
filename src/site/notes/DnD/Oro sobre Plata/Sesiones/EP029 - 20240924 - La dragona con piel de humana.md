@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 Leia comenta que necesitamos a Ursus y Jarlaxle nos dice que sin problemas, que tiene un lugar

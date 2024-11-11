@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session 
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 Busca la cueva del gran gusano, los tatus te guiarán. Déjate llevar por tu instinto

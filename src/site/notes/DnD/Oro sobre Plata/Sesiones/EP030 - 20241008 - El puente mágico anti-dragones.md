@@ -4,10 +4,10 @@
 
 #rol #dnd #OroSobrePlata #dnd/session
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
-### [[Sierpesterio\|Sierpesterio]]
+### [[DnD/Oro sobre Plata/Lugares/Sierpesterio\|Sierpesterio]]
 
 El dueño es [[Yergrin\|Yergrin]]
 El pequeño edificio tiene un cartel enorme de un dragón.

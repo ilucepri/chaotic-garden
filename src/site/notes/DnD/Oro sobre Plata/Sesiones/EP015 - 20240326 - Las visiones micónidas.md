@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session 
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 Menzoberrazan: Hay un conflicto gordo con drows, enanos, esclavos... los drows invocan Yocloth - demonios masa mucosa, amarilla. Apesta a azufre

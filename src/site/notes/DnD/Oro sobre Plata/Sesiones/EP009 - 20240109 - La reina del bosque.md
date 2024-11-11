@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session 
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 Agáricus por la noche se hace amigo de unas arañas que nos quieren comer. Le promete que habrá carga. La araña se llama Cix'et (editado)

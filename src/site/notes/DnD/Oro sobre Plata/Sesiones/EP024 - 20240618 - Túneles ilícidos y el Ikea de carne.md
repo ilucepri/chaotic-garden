@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session 
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 Janzu se despierta con la ayuda de Fromaggio. Hay un pañuelo de carne que parece un esfínter que estaba en la boca de Janzu El tiempo que pasemos jugando será el tiempo que ha pasado en la realidad

@@ -4,7 +4,7 @@
 
 #rol #dnd #OroSobrePlata #dnd/session
 
-[[DnD/Oro sobre Plata/Index\|← Volver al Index]]
+[[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
 ### Preguntas a [[DnD/Oro sobre Plata/Personajes/Dragones/Ondrur\|Andrea]] V3:
@@ -118,7 +118,7 @@ Ahora mismo tenemos estas misiones:
 
 Después de hablar qué coño hacer deciden ir al mercado a coger a Tostada y luego al Sierpesterio para avisar a Yergrin de que Andrea sabe de su existencia.
 
-## Sierpesterio
+## [[DnD/Oro sobre Plata/Lugares/Sierpesterio\|Sierpesterio]]
 
 Los chicos avisan a Yergrin pero él no le da la mayor importancia. También que es una dragona verde y que por la noche iba cambiando de forma, cosa no muy normal en dragones verdes.
 
