@@ -3,7 +3,7 @@
 ---
 
 ## Faerun
-[Mapa](1. [https://loremaps.azurewebsites.net/Maps/Faerun](https://loremaps.azurewebsites.net/Maps/Faerun "https://loremaps.azurewebsites.net/Maps/Faerun"))
+[Mapa](https://loremaps.azurewebsites.net/Maps/Faerun))
 
 ## La Compañía del Oso
 [[Leia\|Leia]]
