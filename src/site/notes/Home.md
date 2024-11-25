@@ -8,6 +8,7 @@ Aquí tendré un Index para los roles que tengo ahora mismo en vivo, que como po
 
 [[DnD/Oro sobre Plata/Index de Oro Sobre Plata\|Oro Sobre Plata]] - Dungeons & Dragons 5e
 [[Cazador/Hell's Corner/Index\|Hell's Corner]] - Cazador 5e
+[[DnD/The Wild Beyond Witchlight/Index de Brujaluz\|Las Tierras más allá de Brujaluz]] - Dungeons & Dragons 5e
 
 # Roles acabados
 
