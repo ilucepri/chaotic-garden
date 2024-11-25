@@ -136,6 +136,7 @@ Al utilizar objetos y materiales de su entorno, el Cazador es capaz de trazar un
 **Sistema:** Superando una prueba a dificultad 4, el Cazador es capaz de crear equipamiento útil, aunque de corta vida, a partir de objetos ordinarios. Este equipo puede ayudar en el empleo de una única Habilidad y proporciona una ventaja de dos dados (el Narrador es el árbitro último en lo que respecta a qué puede aumentarse con el equipamiento, y bajo qué circunstancias). Además, puede hacer que acciones que de otra forma serían imposibles resulten posibles, como volcar imágenes de cámaras a un servidor en la nube o ver más allá de un obstáculo. La creación puede llevar desde unos pocos minutos a horas a discreción del Narrador y no puede realizarse bajo presión o durante un tiroteo. Los objetos creados con esta habilidad dejan de funcionar cuando acaba la escena y el Cazador sólo puede crear un único objeto por escena a menos que tenga el Beneficio adecuado.
 
 ### Subidas de nivel
+Persuasión al 3: 3 + 6 + 9 = 18 ()
 Sigilo al 3: 6pts + 9pts = 15pts. (7 sesiones)
 Fuerza al 3: 15pts (7 sesiones)
 Pelea con Armas al 4: 12pts (6 sesiones)
