@@ -9,7 +9,7 @@
 ---
 ## Intro
 
-*La hermandad de los ecos perdidos.*
+*La Hermandad de los Ecos Perdidos.*
 *Un grupo de aventureros unidos por un pasado en común se reúne por fin en el pueblo de Triboar.*
 *Hace unos años, cada uno de sus miembros perdió algo importante durante su estancia en la Feria de Brujaluz.*
 *Un evento itinerante que nunca visita el mismo lugar hasta que han pasado al menos ocho años.*
@@ -236,7 +236,7 @@ Rafe perdió a su propio hermano, Rafi. La gente de la feria se portó muy bien 
 Por el camino le dan todos los cuchillos a Tharad. En total tienen como unos cinco o seis.
 Cuando llegan al lago pueden ver una burbuja grande y fuera de agua, que actúa como pecera para la sirena. La sirena sale, salta como un delfín, se vuelve a meter...pero cuando empieza a cantar, lo hace dentro de la pecera.
 
-De repente escuchan unos abucheos y todos se giran, enfadadados. Lirael incluso deja que se le escape su Wild Magic.  
+De repente escuchan unos abucheos y todos se giran, enfadados. Lirael incluso deja que se le escape su Wild Magic.  
 Entre la gente ven a una señora embarazada leyendo y no dudan en perseguirla, porque Triss la reconoce como la mujer embarazada que ha visto durante la noche. La mujer escapa entre la multitud y el pasar por un poste se convierte en un muchacho enclenque con unas palabras mágicas.
 Después de una ardua carrera, consiguen atrapar al muchachito, que pierde la concentración y se transforma en un cuervo humanoide; un kenku.
 
