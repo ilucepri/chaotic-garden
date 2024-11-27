@@ -59,9 +59,10 @@ En principio no tienen que entrar completamente al plano. Con asomar el artefact
 ==Misión de nivel más que alta...desconocida.==
 
 Pasan varios minutos discutiendo cómo van a dejar el rastro.
-- Drakhan tiene material de cartografía y también lleva el artefacto.
+- Drakhan tiene material de cartografía.
+- Leia lleva el artefacto.
 - Venti va a apuntar.
-- Janzu, Alfred y Leia oteadores.
+- Janzu, Alfred.
 
 Aparece un portal blanco y todos entran rápidamente.
 
