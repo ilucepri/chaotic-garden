@@ -54,11 +54,9 @@ Remi bromea un poco con Lirael, preguntándole si no le gusta el tiefling escupe
 
 Entre la gente que empieza a llenar la carpa, ven a Calderina -ahora de gnoma-  sentándose para ver el espectáculo.
 
-````
 ```audio-player
 [[Trans-X - Living On Video (Official Music Video).mp3]]
 ```
-````
 
 *La música empieza a sonar y una risa proveniente del techo los hace mirar hacia arriba. En ese momento un foco ilumina un trono de brillante terciopelo morado, sobre el cual, tumbado de lado, se encuentra un elfo vestido con un mono y un gorro de bufón a juego, ambos cubiertos de brillantes lentejuelas que brillan como miles de pequeños espejos.*
 
