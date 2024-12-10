@@ -29,7 +29,6 @@ Repiten el plan, que puede cambiar en cualquier momento. Tharad y Luli montan un
 
 Quedan con Calderina en hacerle una señal, que en teoría le harán Tharad y Luli, para montar el lío.
 *"¡Clávame tu daga, Tharad!"*
-*"Tharad! Lánzame un cuchillo!"*
 
 Dejan ir a Calderina, que ahora es un hombre pelirrojo y se dirigen hacia el lago, que tiene una pequeña cueva por la que se ha metido Palasha.
 No sin un poco de dificultad, consiguen llegar al otro lado. Se dan cuenta de que el agua es dulce como algodón de azúcar.
@@ -42,7 +41,7 @@ Lirael por un burst de Wild Magic ha pasado a ser más bajita, de solo medio met
 
 Cuando llegan a la orilla empiezan su camino hacia el Salón de las Ilusiones y encuentran un sátiro con cuernos rojos y blancos que tiene ratoncitos haciendo una conga mientras toca la flauta. Luli saca su ukelele para participar en la fiesta y el resto también les sigue el rollo.
 El sátiro se termina yendo después de hacerles una reverencia, muy satisfecho.
-## El Salón de las ilusiones
+### El Salón de las ilusiones
 
 *Esta gran carpa está decorada con un mural de imágenes cambiantes que muestran a unas hadas sontientes zambulléndose en estanques de colores. Las franjas helicoidales de los pináculos de la carpa giran en espiral y todo ese diseño parece estar concebido para confundir a los espectadores.*
 
@@ -50,7 +49,7 @@ Hay un payaso con un traje discreto y gris, que les mira y parpadea. Es Patacand
 Consiguen entablar conversación con él (él, por supuesto, con mímica y dibujo) y les hace entender que fue un gran pájaro el que le quitó la voz. Todos entienden que es Calderina.
 El grupo quiere llegar a un acuerdo con él, pero el pobre parece tenerle bastante rechazo a ayudarlos si la kenku está cerca. Al final, asiente para admitir que los ayudará.
 Luli le dice que si todo va bien y recuperan su voz para la pedida de mano, le compondrá la melodía.
-## Reino de las pixies
+### Reino de las pixies
 
 Más o menos a la 1:03 de timestamp ;D
 - Oyuelín para Lirael
@@ -108,3 +107,5 @@ Triss le pregunta directamente al señor Bruja por la kenku. Bruja contesta que 
 Luz es recuerda que no se pierdan la Gran Extravaganza y luego les invita a irse, avisando a Gaco el payaso para que los lleve a la entrada y les de uno de sus globos (que transforma en una forma de perrito).
 Pueden ver por unos segundos el reloj de Bruja, mientras este lo ojea.
 Lirael le contesta convirtiendo con una minor illusion, el globo en una mano que saca el dedo. Gaco se ríe un poco.
+
+**-- FIN --**

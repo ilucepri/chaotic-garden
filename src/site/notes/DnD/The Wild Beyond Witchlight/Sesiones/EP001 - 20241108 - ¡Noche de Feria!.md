@@ -249,4 +249,4 @@ La última vez que estuvo en la feria escuchó de los dueños lo siguiente:
 Calderina no puede pasar a Prismalia, pero la Hermandad de los Ecos Perdidos, sí.
 Deciden trabajar juntos.
 
-**¡FIN DE SESIÓN!**
+**-- FIN --**
