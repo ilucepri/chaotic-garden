@@ -23,3 +23,4 @@
 - [[Cazador/Hell's Corner/Sessions/EP011 - 20241023 - En el vientre de la bestia\|EP011 - 20241023 - En el vientre de la bestia]]
 - [[Cazador/Hell's Corner/Sessions/EP012 - 20241030 - Viejos Conocidos\|EP012 - 20241030 - Viejos Conocidos]]
 - [[Cazador/Hell's Corner/Sessions/EP013 - 20241108\|EP013 - 20241108]]
+- [[Cazador/Hell's Corner/Sessions/EP014 - 20241113\|EP014 - 20241113]]
