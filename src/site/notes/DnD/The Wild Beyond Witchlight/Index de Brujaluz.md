@@ -21,3 +21,4 @@
 - [[DnD/The Wild Beyond Witchlight/Sesiones/EP001 - 20241108 - ¡Noche de Feria!\|EP001 - 20241108 - ¡Noche de Feria!]]
 - [[DnD/The Wild Beyond Witchlight/Sesiones/EP002 - 20241121 - Juegos de Hadas\|EP002 - 20241121 - Juegos de Hadas]]
 - [[DnD/The Wild Beyond Witchlight/Sesiones/EP003 - 20241127 - La Gran Extravaganza\|EP003 - 20241127 - La Gran Extravaganza]]
+- [[DnD/The Wild Beyond Witchlight/Sesiones/EP004 - 20241219 - Miedos, misterios y cubatas\|EP004 - 20241219 - Miedos, misterios y cubatas]]

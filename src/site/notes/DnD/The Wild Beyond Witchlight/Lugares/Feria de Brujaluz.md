@@ -42,6 +42,12 @@
 - Shadar-Kai serio e imponente, con voz grave.
 - Tiene un reloj de bolsillo que le permite montar la feria.
 - Si hay problemas serios en la feria, es el que se presenta para arreglarlos.
+- En relación con Luz.
+- Poderes del reloj: 
+	- Firebolt
+	- Invisibilidad
+	- Mensaje
+	- La feria responde a sus órdenes, pudiendo desmontarla y montarla.
 #### Señor Luz
 
 ![misterLight.png](/img/user/misterLight.png)
@@ -49,6 +55,7 @@
 - Shadar-Kai delgado y alto, con voz animada.
 - Tiene una veleta que indica el ánimo de la feria.
 - Se encarga de llevar la Gran Extravaganza.
+- En relación con Bruja.
 #### Nilkolas
 
 - Goblin anciano que se encarga de vender los tickets en la entrada.
@@ -91,6 +98,8 @@
 - Perdió a su hermano Rafi.
 - Sabe que pasa algo en la Feria y está muy preocupado.
 - Quiere ayudar a la Hermandad para que lleguen al fondo del asunto de Brujaluz.
+- Él y su hermano se unieron a la feria cuando eran jovencitos. Poco después, Rifi desapareció.
+- Es el que les recomendó robar el reloj a Bruja
 #### Patacandela
 
 ![patacandela.png](/img/user/DnD/The%20Wild%20Beyond%20Witchlight/Docs/patacandela.png)
@@ -100,6 +109,8 @@
 - Quería pedirle matrimonio a Palasha.
 - Está muy triste.
 - Trabaja en las puertas del Salón de las Ilusiones.
+- Calderina había robado su voz con un muñeco de paja.
+- Se ha prometido a Palasha en la Gran Extravaganza.
 #### Palasha
 
 ![palasha.png](/img/user/DnD/The%20Wild%20Beyond%20Witchlight/Docs/palasha.png)
@@ -113,6 +124,14 @@
 - No actúa desde que tuvo un accidente con cuchillos.
 - Odia a los niños.
 - Hace globitos en forma de perro.
+
+#### Diana Galopona
+
+- Una humana que hizo un trato para traer a su caballo a la vida y terminó fundiéndose con él.
+- Cada vez que intentas sacarle información, algo se lo impide, como vomitar resina o que le crezcan setas.
+- Encargada del Carrousel.
+- Su caballo se llamaba Canto de Invierno.
+
 ### Visitantes
 #### Calderina
 
