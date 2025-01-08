@@ -10,7 +10,7 @@
 
 ### Sesiones
 
-- [[Cazador/Hell's Corner/Sessions/EP001\|EP001]]
+- [[Cazador/Hell's Corner/Sessions/EP001\|Cazador/Hell's Corner/Sessions/EP001]]
 - [[Cazador/Hell's Corner/Sessions/EP002\|EP002]]
 - [[Cazador/Hell's Corner/Sessions/EP003\|EP003]]
 - [[Cazador/Hell's Corner/Sessions/EP004\|EP004]]
@@ -24,3 +24,5 @@
 - [[Cazador/Hell's Corner/Sessions/EP012 - 20241030 - Viejos Conocidos\|EP012 - 20241030 - Viejos Conocidos]]
 - [[Cazador/Hell's Corner/Sessions/EP013 - 20241108\|EP013 - 20241108]]
 - [[Cazador/Hell's Corner/Sessions/EP014 - 20241113\|EP014 - 20241113]]
+- [[Cazador/Hell's Corner/Sessions/EP015 - 20241223\|EP015 - 20241223]]
+- 

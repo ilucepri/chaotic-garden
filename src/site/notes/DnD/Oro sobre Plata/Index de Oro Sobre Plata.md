@@ -50,4 +50,4 @@
 - [[DnD/Oro sobre Plata/Sesiones/EP033 - 20241105 - Haz acabar a la dragona\|EP033 - 20241105 - Haz acabar a la dragona]]
 - [[DnD/Oro sobre Plata/Sesiones/EP034 - 20241112 - Misiones peligrosas\|EP034 - 20241112 - Misiones peligrosas]]
 - [[DnD/Oro sobre Plata/Sesiones/EP035 - 20241126\|EP035 - 20241126]]
-- - [[DnD/Oro sobre Plata/Sesiones/EP036 - 20241212\|EP036 - 20241212]]
+- [[DnD/Oro sobre Plata/Sesiones/EP036 - 20241212\|EP036 - 20241212]]
