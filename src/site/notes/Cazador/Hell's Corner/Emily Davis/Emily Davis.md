@@ -136,9 +136,22 @@ Al utilizar objetos y materiales de su entorno, el Cazador es capaz de trazar un
 **Sistema:** Superando una prueba a dificultad 4, el Cazador es capaz de crear equipamiento útil, aunque de corta vida, a partir de objetos ordinarios. Este equipo puede ayudar en el empleo de una única Habilidad y proporciona una ventaja de dos dados (el Narrador es el árbitro último en lo que respecta a qué puede aumentarse con el equipamiento, y bajo qué circunstancias). Además, puede hacer que acciones que de otra forma serían imposibles resulten posibles, como volcar imágenes de cámaras a un servidor en la nube o ver más allá de un obstáculo. La creación puede llevar desde unos pocos minutos a horas a discreción del Narrador y no puede realizarse bajo presión o durante un tiroteo. Los objetos creados con esta habilidad dejan de funcionar cuando acaba la escena y el Cazador sólo puede crear un único objeto por escena a menos que tenga el Beneficio adecuado.
 
 ### Subidas de nivel
-Persuasión al 3: 3 + 6 + 9 = 18 ()
-Sigilo al 3: 6pts + 9pts = 15pts. (7 sesiones)
-Fuerza al 3: 15pts (7 sesiones)
-Pelea con Armas al 4: 12pts (6 sesiones)
-Investigación al 3: 9pts (5 sesiones)
-Atletismo al 3: 9pts (5 sesiones)
+- Persuasión al 3: 3 + 6 + 9 = 18 ()
+- Sigilo al 3: 6pts + 9pts = 15pts. (7 sesiones)
+- Fuerza al 3: 15pts (7 sesiones)
+- Pelea con Armas al 4: 12pts (6 sesiones)
+- Investigación al 3: 9pts (5 sesiones)
+- Atletismo al 3: 9pts (5 sesiones)
+
+### Su madre
+
+- Su nombre es Martha Anderson (soltera) o Davis (casada). Pelo castaño claro, liso. Ojos azules. En paradero desconocido.
+- Conoció a Isaac (el papi de Emily) en el primer año de universidad y enseguida empezaron a salir. Eran una pareja muy extrovertida e iban siempre de fiesta en fiesta.
+- Con 21 años tuvieron a Jacob y ella tuvo que dejar los estudios para cuidar del peque mientras Isaac estudiaba medicina.
+- Tres años después nace Emily. El padre está empezando residencia en hospitales por lo que no está mucho en casa. 
+- Son muy pobres así que Martha intenta sacar dinero de donde sea. Revendiendo cosas, trabajos desde casa, etc etc...
+- Cuando Emily tiene 5 años se compran una casa en Hell's Corners, volviendo al pueblo donde creció su madre. 
+- Martha empieza a unirse con malas compañías (tema de drogas seguro, cómo lo ves??).
+- Tres años después desaparece por completo sin despedirse de nadie. Su familia no sabe nada y están confusos. Hay investigación policial pero terminan abandonándola por falta de pruebas.
+- El padre empieza a trabajar como un loco para sacar a los niños adelante, pagar las deudas que dejó su mujer y mantener la casa a flote
+- Y en ese tiempo Jacob y Emily se crían como pueden gracias a vecinos, y su abuela materna, que aunque su hija no esté no iba a dejar a sus nietos abandonados.

@@ -1,0 +1,118 @@
+---
+{"dg-publish":true,"permalink":"/dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-003-20241127-la-gran-extravaganza/"}
+---
+
+#rol #dnd #LasTierrasMasAllaDeBrujaluz #dnd/session
+
+[[DnD/Historias/The Wild Beyond Witchlight/Index de Brujaluz\|← Volver al Index]]
+
+---
+
+*Tras dar con la escurridiza Kenku y unirla a su bando, los héroes de la Hermandad de los Ecos Perdidos fueron a hablar con la disgustada Sirena Palasha. Desconsolada y presa del dolor, no parecía tener fuerzas para nada hasta que el mimo Patacandela, su amor, recuperara la voz. Por su parte, Patacandela les indicó por mímica que fue Calderina, la Kenku, quien le robó la voz.*
+
+*Tras ello, fueron al Reino de los Pixies, la mejor atracción de la feria según ellos, donde fueron reducidos de tamaño y permitieron que se les pusieran nombres de pixy. Allí comieron y bebieron mientras Triss ganaba una partida al escondite. Tras conversar con el hámster Galleta, recuperaron su tamaño normal y fueron interceptados por Rafe, pues los dueños de la feria querían verles.*
+
+*Al llegar a su carromato, el señor Luz les felicitó por levantar tanto el ánimo de la feria y por vivirla con tanta felicidad, algo que le indica su veleta mágica. Los personajes trataron de sonsacar la información a la pareja, cosa que no pasó inadvertida para el señor Bruja, quien tras mirar su reloj les invitó a irse. El momento de la gran extravaganza se acerca, así que… ¿Qué harán nuestros héroes?*
+
+---
+## Feria Brujaluz
+
+### Camino
+
+A las afueras de los carromatos, se les acerca Rafe, preguntando con curiosidad qué es lo que querían los jefes. Al contárselo dice que no sería la primera vez que saludan a la gente de esa manera. Les aconseja que no se pierdan la Gran Extravaganza  se sentiría decepcionado si la Hermandad se cargara el espectáculo.
+
+A Triss se le ocurre montar una pedida de matrimonio en la Gran Extravaganza, lo que haría que aumentaran los ánimos aún más y encima haría que Bruja -supuestamente- saliera de su carromato. Para eso cuentan con que Rafe lo atraiga hacia fuera de la zona de staff. 
+
+Pero para que todo salga bien, tienen que conseguir que Patacandela recupere su voz...y para eso necesitan a Calderina. 
+Pronuncian la frase para llamarla y Luli y Tharad empiezan a hacer unos malabares con cuchillos.
+
+Se acercan dos peones, una humana y un enano. Les piden que por favor se alejen de la zona, que hay muchas atracciones.
+
+De mientras, Remi y Triss se acercan a Calderina y se van detrás de un árbol. Al ver lo que pasa, el resto del grupo desiste de hablar con los peones y se acercan también.
+Calderina saca un muñeco que está hecho con una mazorca de maíz, cuerda y esparto. Tenía un lazo alrededor del cuello que le quita. 
+Con su voz de cuervo les comenta que deberán dárselo al mimo.
+
+La nueva frase para llamar a Calderina es *"Sombra emplumada"*. Se transforma en una gnoma con el pelo verde y de nuevo se mete en el jolgorio de la feria.
+
+### Salón de las ilusiones
+
+Vuelven a la atracción, en la que se puede ver al mimo, muy deprimido, dejando entrar a la gente. Luli le da el muñeco a Patacandela, que lo mira extrañado. Al intentar expresar su confusión, comprende que ha recuperado su voz y se pone súper contento.
+Les da las gracias varias veces, aún sin poder creérselo. Los chicos no pierden el tiempo y le comentan que podría ayudar al grupo si le pidiera matrimonio a Palasha en la Gran Extravaganza.
+
+Le parece una idea de la leche, así que accede y se va corriendo a prepararlo todo y a hablar con Rafe y el resto de trabajadores.
+
+Paran en un puesto de comida. Una semi-elfa vende unos semi-peces con hojaldre. Dentro está lleno de mermelada de frutos rojos. Cogen uno para cada uno junto a sus respectivas bebidas y se meten en la gran carpa para inspeccionar el lugar.
+### Gran Carpa
+
+*Carpa típica de circo, con tres pabellones que acaban en forma de pico y tienen estrellas giratorias adornando. Las paredes de la lona están pintadas con escenas circenses, que se mueven creando un frenesí de colores dantazantes.*
+*La carpa tiene tres entradas que dan a sendas gradas de madera alrededor de la pista principal, donde se encuentra una arena con un poste metálico que soporta la mayor parte de la estructura.*
+
+Ahora mismo hay un espectáculo de un tiefling escupefuego que invoca mephits que revolotean por la gran carpa. Viste con colores vivos y tiene los cuernos pintados en espirales.
+
+El grupito se sienta para ver el espectáculo, pero pensando que van a tener que salir disimuladamente en algún momento, se ponen en uno de los lados de las gradas.
+Remi bromea un poco con Lirael, preguntándole si no le gusta el tiefling escupefuegos. Lirael dice que no le gusta mucho el rojo.
+
+Entre la gente que empieza a llenar la carpa, ven a Calderina -ahora de gnoma-  sentándose para ver el espectáculo.
+
+![[Trans-X - Living On Video (Official Music Video).mp3]]
+
+*La música empieza a sonar y una risa proveniente del techo los hace mirar hacia arriba. En ese momento un foco ilumina un trono de brillante terciopelo morado, sobre el cual, tumbado de lado, se encuentra un elfo vestido con un mono y un gorro de bufón a juego, ambos cubiertos de brillantes lentejuelas que brillan como miles de pequeños espejos.*
+
+*De pronto, el elfo da un salto mortal hacia la barra que se encuentra en el centro, a la que se encarama con brazos y piernas para después deslizarse vertiginosamente hacia el suelo. A unos escasos metros se detiene, suelta los brazos y arquea el cuerpo hacia atrás sugerentemente. El elfo gira y se contorsiona de maneras imposibles, haciendo que los músculos se marquen a través de la ropa.*
+
+*Mientras esto ocurre, una banda de músicos entra por una de las entradas de la feria, tocando instrumentos imposibles y mágicos. Al final de la comitiva, sobre una plataforma con ruedas tirada por ponies, entra una enorme pecera en cuyo interior hay una sirena que hace cabriolas y se asoma para cantar.*
+
+*Por otra de las entradas aparecen dos docenas de peones de la feria, quienes tienen la parte superior del mono atada a la cintura y el cuerpo pintado con pintura de brillantes colores. Se coloran haciendo un círculo alrededor de toda la pista y bailan siguiendo los pasos del elfo que sigue haciendo pole dance en la barra.*
+
+*Por último, entran varias libélulas cabalgadas por goblins que lanzan confetis y serpentinas.*
+*De vez en cuando el círculo de bailarines se abre para dejar pasasr a otros artistas que entran en escena.*
+
+*El público puede ver al mismo tiefling escupefuegos del comienzo, tragando fuegos que lanzan llamaradas azules y violetas. Un elfo con zancos que baila y lanza caramelos. Una pareja de acóbatas que dan volteretas entre el público. Patacandela que trata de mover un globo sin aparente resultado. Unos payasos que tropiezan y comienzan a pelear absurdamente...y todo, al ritmo de la música.*
+
+*De pronto, hay un estallido de luces artificiales y todas las luces se apgan, revelando tan solo la pintura brillante de los bailarines, que es fosforescente, y al elfo de la barra, que de algún modo está dando vueltas alrededor de la carpa en un trapecio, mientras varios trapecistas saltan y hacen acrobacias a su alrededor.*
+
+*El espectáculo se prolonga durante media hora, hasta que la luz vuelve, la música aminora poco a poco, y el público estalla en aplausos y vítores.*
+
+*Los artistas hacen reverencias y se retiran a las entradas de la carpta. Todos, escepto Patacandela, que se ha puesto al lado de la pecera. Posa una mano en el cristal, mientras Palasha, al otro lado del cristal, hace lo mismo. De pronto, el mimo empieza a cantar una canción extraña, mágica y bella, con un ritmo muy parecido a las canciones de Palasha.*
+
+*La sirena se lleva las manos al pecho y saca la mitad de su cuerpo para poder cantar con él. Ambos empiezan a entonar una canción conjunta, que claramente es de amor.*
+
+![Pasted image 20241210200912.png](/img/user/DnD/Historias/The%20Wild%20Beyond%20Witchlight/Docs/Pasted%20image%2020241210200912.png)
+
+El grupo toma esto como su señal para actuar. Luli saca el arpa de su hermano y empieza a tocar al ritmo de la canción para acompañarles. Triss y Remi se toman la invisiglena y salen pitando de la carpa. Tharad y Lirael se quedan vigilando.
+
+Pueden ver a Luz, que estaba bajando del trapecio y decide quedarse en segundo plano. Se lleva las manos al pecho y lo pueden ver muy emocionado.
+
+---
+
+Triss y Remi salen por la entrada que da a los carromatos del staff. Por el camino pueden ver a los peones que se están quitando la pintura y hablando de lo bien que ha salido el espectáculo.
+
+Al salir ven a Rafe dirigiéndose al muro de espinas, y con un gesto, abriéndolo. Se intentan colar detrás de él. Triss de una voltereta lo consigue fácilmente, pero Remi se araña con las espinas y acaba bastante tocado.
+
+Ya dentro, ven a Rafe hablando con el sr.Bruja fuera de su carromato. Le avisa de que ha habido un incidente en la Gran Extravaganza, que tiene que ver con Patacandela. Bruja es reticente a moverse pero termina dirigiéndose a la entrada después de mandar a Rafe a que avise a Dirlagraun.
+
+Los dos pueden ver la cadenita -leontina ;)- del reloj, que cuelga del bolsillo. Triss aprovecha cuando Bruja pasa por las espinas para darle un pequeño tironcito y robárselo sin mucho problema.
+
+Eso sí...ahora ambos se encuentran encerrados.
+
+---
+Mientras, en la carpa, Tharad le da el picante a Lirael para que lo eche en las jarras de cerveza. Patacandela ha terminado de pedirle matrimonio a Palasha, que empieza a llorar de alegría. Luz vuelve a recobrar protagonismo, pidiendo un hurra por los futuros marido y mujer.
+
+Empieza a animar a la gente del público y presenta a su gente para que se lleven más vítores. También pide un aplauso para el público, porque sin ellos esto no sería posible.
+Mientras Luz se presenta a la gente, puede ver al Bruja y se sorprende un poco de verle ahí, pero sigue con el espectáculo pidiendo la colaboración del público para que muestren sus habilidades.
+
+Tharad encantado sale a lanzar cuchillos, pero como no quiere poner en peligro a nadie, usan un cartón que Lirael convierte por medio de ilusiones, en la forma de Luz.
+
+No le sale muy bien el número -¡los nervios del directo!-, pero el público aún así se lo pasa estupendamente al ver al grandullón.
+
+---
+Volviendo a la zona del staff, Triss y Remi deciden rebuscar en uno de los carromatos de los jefes.
+A pesar de que el payaso Gaco está por la zona, consiguen ser sigilosos y Triss abre la puerta cerrada sin mayores problemas.
+
+Entran al carromato de Bruja y pasan un tiempo registrando todo de cabo a rabo. Lo que les llama la atención son una serie de dibujos.
+
+En uno de ellos pueden ver una feria, similar a esta pero con criaturas retorcidas y con aspecto malgino.
+También hay un dibujo, muy bien hecho, de dos niños calvos con orejas picudas jugando delante de un reloj. Uno de ellos parece muy bien vestido, el otro no.
+En el último grabado hay tres figuras. Parecen tres ancianas, pero están hechas deprisa y corriendo. Una de ellas parece encorvada y agachada, a otra le sale una protuberancia de la espalda, y la última tiene una figura esbelta y delgada, casi cadavérica.
+
+**-- FIN --**

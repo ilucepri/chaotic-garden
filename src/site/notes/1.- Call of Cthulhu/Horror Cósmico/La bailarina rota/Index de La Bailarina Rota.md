@@ -4,7 +4,7 @@
 
 ## Sesiones
 
-- [[1.- Call of Cthulhu/Horror Cósmico/La bailarina rota/Sesiones/EP01\|EP01]]
+- [[1.- Call of Cthulhu/Horror Cósmico/La bailarina rota/Sesiones/EP01\|1.- Call of Cthulhu/Horror Cósmico/La bailarina rota/Sesiones/EP01]]
 - [[1.- Call of Cthulhu/Horror Cósmico/La bailarina rota/Sesiones/EP02\|EP02]]
 - [[1.- Call of Cthulhu/Horror Cósmico/La bailarina rota/Sesiones/EP03\|EP03]]
 - [[1.- Call of Cthulhu/Horror Cósmico/La bailarina rota/Sesiones/EP04\|EP04]]
