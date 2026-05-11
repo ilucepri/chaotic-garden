@@ -4,6 +4,8 @@
 
 #rol #dnd #FantasmasSobreSaltmarsh #dnd/session
 
+[[DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]]
+
 ----
 
 Dravok pasa mucho rato en el muelle y en la taberna de su padre, Lankus. Cabra de mimbre.
