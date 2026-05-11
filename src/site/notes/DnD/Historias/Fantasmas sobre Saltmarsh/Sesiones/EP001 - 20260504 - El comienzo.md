@@ -9,7 +9,7 @@
 ----
 
 Dravok pasa mucho rato en el muelle y en la taberna de su padre, Lankus. Cabra de mimbre.
-Heridas persistentes 
+Heridas persistentes.
 Habilidades flexibles - Nadar, asustar...Podemos usar la fuerza para asustar
 Acción de Ender - Habrá masillas que habrá que eliminar de una. Cuando un enemigo adyacente a otro, si cae a 0 por daño cortante, y sobra daño, ataca al siguiente también.
 
