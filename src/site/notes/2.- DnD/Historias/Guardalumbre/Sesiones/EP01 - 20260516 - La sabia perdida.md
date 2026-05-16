@@ -4,6 +4,9 @@
 
 #rol #dnd #MisteriosDeGuardalumbre #dnd/session
 
+[[2.- DnD/Historias/Guardalumbre/Index de Misterios de Guardalumbre\|← Volver al Index]]
+
+----
 # Guardalumbre
 
 Ciudad de Guardalumbre En la costa de la Espsada un lugar en el que básicamente hace unos siglos unos sabios acumularon todo el poder como conocimiento en la grandísima biblioteca. Para formar parte de ella hay que ser un gran erudito.
