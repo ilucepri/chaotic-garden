@@ -14,8 +14,7 @@ Un hombre le tiende la mano, muy grande y susurra
 *"No sé quién cojones eres pero nadie...nadie. Ni siquiera yo...tenía el valor de acercarnos a ese lugar. Los niños piensan que es un juego, pero el respeto a las..."*
 Le da una bolsita con las pagas semanales de las familias pero Arkos lo detiene y dice que no, agradeciendo la generosidad de la gente del pueblo.
 
-Lo llevan al bar de nuevo 
-Cuenta la historia de lo que ha estado pasando. 
+Lo llevan al bar de nuevo y Arkos cuenta la historia de lo que ha estado pasando. 
 La puerta se abre con toda la tranquilidad del mundo. Entra alguien muy bajito, un enano. Viste diferente al de las minas. Armadura de placas, cota de malla...en su hombrera lleva el blasón de la casa Thunderstrike.
 El enano se sienta en un taburete y empieza a hablar con Lankus en murmullos. Carraspea.
 Alguien en la taberna reacciona ante este carraspeo y otras dos personas cubren a Arkos del enano.
@@ -60,12 +59,15 @@ Virellia por supuesto se va a los libros:
 - El tercero es un denso y oscuro tratado teológico sobre el culto a Iuz, el temido semidiós del engaño y la maldad.
 	- En las páginas del libro centrales, encuentra una hoja de pergamino doblada, Al abrirla hay un glosario de términos goblin - común
 	- Órdenes como "ALTO", "ATACAD"...
+
 Genya está mirando la mesa y descubre un sútil resorte y se abre un compartimento secreto. Encuentro un libro encuadernado en piel negra y una caja de madera. Hay muchos conjuros!!!
 En la caja hay 12 velas, pedernal, otro trozo de pergamino: Una lista directa de instrucciones marítimas. Sistema de comunicación marítima con destellos de luz con esa linterna de la mesa.
 ![Pasted image 20260518222559.png](/img/user/Pasted%20image%2020260518222559.png)
-- Señal del barco: Largo-corto-corto-corto - ¿Es seguro acercarse?
-- Respuesta desde Tierra: Corto-largo-corto-largo - Todo seguro. Vía libre.
-- Confirmación del Barco: Largo-largo-largo - Listos para descargar. Venid al barco en los botes.
+
+- **Señal del barco:** Largo-corto-corto-corto - ¿Es seguro acercarse?
+- **Respuesta desde Tierra:** Corto-largo-corto-largo - Todo seguro. Vía libre.
+- **Confirmación del Barco:** Largo-largo-largo - Listos para descargar. Venid al barco en los botes.
+
 Investigamos la bodega antes de movernos. Encontramos que el polvo no se acumula igual en todas la habitación. Hay algo que frecuentemente se arrastra por encima.
 Encontramos el muro giratorio, que deja entrar una ráfaga de aire frío con olor a sal que desciende. El eco rítmico de olas golpeando contra la roca.
 
@@ -81,4 +83,4 @@ Distinguimos tonos de voz. Dos o tres barones que discuten sobre el curro.
 
 Se acerca una figura. Que grita y saca una flecha.
 
-¡¡Empezamos pelea!!
+**¡¡Empezamos pelea!!**
