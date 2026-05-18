@@ -44,7 +44,7 @@ Al final se juntan todos.
 
 La puerta vuelve a abrirse después de un par de segundos de que Genya vuelva de dar de comer a sus compañeros guardias,
 
-"Ayuda, POR FAVOR, AYUDA. SE LOS HAN LLEVADO, ESTÁN AHÍ DENTRO" "Solo queríamos jugar, solo era una apuesta. Ir a la casa de alquimista, 4 millas al este...la puerta estaba rota y entramos al pasillo, todo estaba frío y oscuro. De pronto, las sombras se movieron, no tenían rosto, eran fantasmas, espectros con capas largas, flotando en lao oscuridad....AGARRARON A PIP POR LA ESPALDA, NO PUDIERON NI GRITAR. SE LLEVARON A ELARA Y A TOMMY HACIA LA BODEGA... yo me escondí, me hice un ovillo...ssalí corriendo, sin mirar atrás, con la lluvia golpeándome la cara...por favor, se lo ruego a todos....están vivos pero las sombras los tienen, son fantasmas...los fantasmas han vuelto....ayudadles...por favor"
+"Ayuda, POR FAVOR, AYUDA. SE LOS HAN LLEVADO, ESTÁN AHÍ DENTRO" "Solo queríamos jugar, solo era una apuesta. Ir a la casa de alquimista, 4 millas al este...la puerta estaba rota y entramos al pasillo, todo estaba frío y oscuro. De pronto, las sombras se movieron, no tenían rosto, eran fantasmas, espectros con capas largas, flotando en lao oscuridad....AGARRARON A PIP POR LA ESPALDA, NO PUDIERON NI GRITAR. SE LLEVARON A ELARA Y A TOMMY HACIA LA BODEGA... yo me escondí, me hice un ovillo...salí corriendo, sin mirar atrás, con la lluvia golpeándome la cara...por favor, se lo ruego a todos....están vivos pero las sombras los tienen, son fantasmas...los fantasmas han vuelto....ayudadles...por favor"
 
 Genya va a avisar a los guardias, pero están que no aguantan el picante. 
 

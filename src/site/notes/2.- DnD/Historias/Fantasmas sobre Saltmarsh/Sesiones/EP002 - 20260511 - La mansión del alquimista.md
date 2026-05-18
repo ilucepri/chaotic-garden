@@ -7,7 +7,6 @@
 [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]]
 
 -------
-
 ## Casa del Alquimista
 
 Hay una escalera al abrir la trampilla. Del agujero sale luz y olor agradable a comida. 
