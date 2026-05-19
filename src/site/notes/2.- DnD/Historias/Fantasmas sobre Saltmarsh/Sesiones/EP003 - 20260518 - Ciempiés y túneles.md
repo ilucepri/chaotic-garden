@@ -7,6 +7,23 @@
 [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]]
 
 ---
+
+> [!Resumen]
+> *Arkos logró llevar a los niños de vuelta al pueblo, donde las familias están súper agradecidas e intentan pagarle, cosa que rechaza. Le cuenta a la gente lo que ha pasado mientras le invitan a unas cervezas. La llegada de un enano de la casa Thunderstrike hace que Lankus, preocupado, le recomiende salir discretamente por la puerta trasera.*
+> *El bardo se reune con el resto del grupo en la Casa del Alquimista, abandonada desde la desaparición de su dueño hacía treinta años. Allí fueron atacados por múltiples ciempiés gigantes, cuyo veneno dejó fuera de combate a Lodd y Dravok. Tras sobrevivir al enfrentamiento, descansaron en las camas de los contrabandistas muertos, Arkos recuerda que uno de los niños había mencionado haber visto luces señalando hacia el mar desde el piso superior.*
+> 
+> *Explorando una de las habitaciones de la bodega, descubrieron que estaba sorprendentemente limpia y ordenada.* 
+> *Encontraron:* 
+> - *Un tratado sobre el culto al semidiós del engaño y la maldad.*
+> - *Oculto entre sus páginas, órdenes traducidas del goblin al común*
+> - *Almanaque naval lleno de anotaciones recientes.*
+> - *Libro de conjuros* 
+> - *Sistema de señales luminosas utilizado para comunicarse con barcos desde la costa, confirmando que la casa servía como base de contrabando.*
+> - *Un escudo antiguo de que ya no existe. Alianza de Keoland.*
+> 
+> *Investigando la bodega, hallaron un muro giratorio que ocultaba unas escaleras descendiendo hacia una caverna marina. Las voces de borrachos hacen que se preparen para el combate*
+
+---
 ## Pueblo
 
 Arkos se dirige con los niños hacia el pueblo. Empieza a haber mucho alboroto, sobre todo por las familias de los peques.
