@@ -23,7 +23,7 @@ Genya se carga a otro con una buena carga.
 Lodd intenta intimidar al que queda vivo. El contrabandista termina tirando las armas.
 Dravok le quita las armas al tío
 
-El líder de los contrabandistas es Sanbalet.Es un contrabandista que se encarga de hacer trueques entre diferentes grupos criminales. Siempre se escabuye y hace tratos. La guardia nunca da con él.
+El líder de los contrabandistas es Sambalet. Es un contrabandista que se encarga de hacer trueques entre diferentes grupos criminales. Siempre se escabulle y hace tratos. La guardia nunca da con él.
 Nos describe cómo es: Peculiar, alto, siempre lleva la cara media tapada, es atractivo, lleva ropas muy holgadas de prenda única. No le ha visto arma. Siempre va con su bastón. Habla de sí mismo en tercera persona. El muchacho se llama John.
 El hombre este parece que hace imágenes en el aire. 
 
