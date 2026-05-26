@@ -15,11 +15,11 @@ Entra a una cámara con antorchas. 10 camas toscas en la pared sur alineadas, ca
 
 **¡Es una emboscada!!**
 
-![Pasted image 20260511211442.png](/img/user/Pasted%20image%2020260511211442.png)
+![Pasted image 20260511211442.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260511211442.png)
 
 Lodd cae pero Arkos le cura. Virellia salta la escalera para ayudar a Lodd cuando él se mete por debajo de la mesa.
 
-![Pasted image 20260511220310.png](/img/user/Pasted%20image%2020260511220310.png)
+![Pasted image 20260511220310.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260511220310.png)
 
 PIM PAM PUM, acaban todos muertos y nosotros sorprendentemente enteros!
 
@@ -33,7 +33,7 @@ Cruzamos la chimenea. Es una sala cubierta de cristales por los suelos. Una vino
 
 Hay un cadáver apoyado en las vitrinas de vino. Parece que ha muerto a golpes y lleva un par de decanas aquí.
 
-![Pasted image 20260511222808.png](/img/user/Pasted%20image%2020260511222808.png)
+![Pasted image 20260511222808.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260511222808.png)
 
 A la izquierda hay una escalera y al final una puerta. 
 
@@ -52,7 +52,7 @@ Parece ser un aventurero cualquiera pero carga escudo y espada de la guardia. Te
 
 Subimos de nuevo a la planta 0 de la mansión del alquimista desde la escalera de la vinoteca!!
 
-![Pasted image 20260511225747.png](/img/user/Pasted%20image%2020260511225747.png)
+![Pasted image 20260511225747.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260511225747.png)
 
 
 

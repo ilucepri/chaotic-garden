@@ -40,25 +40,25 @@ Lankus se acerca y con tranquilidad le dice *"Ya es hora de que vuelvas, pero sa
 
 Subimos la trampilla
 
-![Pasted image 20260518205908.png](/img/user/Pasted%20image%2020260518205908.png)
+![Pasted image 20260518205908.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518205908.png)
 
-![Pasted image 20260518210247.png](/img/user/Pasted%20image%2020260518210247.png)
-![Pasted image 20260518210542.png](/img/user/Pasted%20image%2020260518210542.png)
+![Pasted image 20260518210247.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518210247.png)
+![Pasted image 20260518210542.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518210542.png)
 
 En el barril podemos encontrar...nada :). Hace mucho que no contiene nada, pero cuando lo hacía, contenía licor.
 
-![Pasted image 20260518210734.png](/img/user/Pasted%20image%2020260518210734.png)
+![Pasted image 20260518210734.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518210734.png)
 
 Lo único que sabemos es que el alquimista desapareció hace 30 años.
-![Pasted image 20260518211001.png](/img/user/Pasted%20image%2020260518211001.png)
+![Pasted image 20260518211001.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518211001.png)
 
 De las paredes salen 5 ciempiés enormes que empiezan a atacarnos. Tanto Lodd como Dravok caen ante los ataques y el veneno.
 
-![Pasted image 20260518211732.png](/img/user/Pasted%20image%2020260518211732.png)
+![Pasted image 20260518211732.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518211732.png)
 
 Virellia consigue 3 patas y uno de los ganchos de los ciempiés!!
 
-![Pasted image 20260518214026.png](/img/user/Pasted%20image%2020260518214026.png)
+![Pasted image 20260518214026.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518214026.png)
 
 Nos quedamos descansando en las camas de los contrabandistas que matamos.
 Uno de los niños le dice a Arkos antes de que llegaran al pueblo que vieron luces en el piso superior que apuntaban hacia el mar. 
@@ -68,7 +68,7 @@ Sobre la mesa hay un candelabro con elas y podemos distinguir debajo de la mesa 
 El estandarte de la habitación es de un blasón que ya no existe. Y si está ahí parece que es porque es un botín de guerra. Era de gente importante, de origen militar.
 Alianza del reino de Keoland pero todavía hay casas que lo pueden reconocer.
 
-![Pasted image 20260518220447.png](/img/user/Pasted%20image%2020260518220447.png)
+![Pasted image 20260518220447.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518220447.png)
 
 Virellia por supuesto se va a los libros:
 - El primero es un volumen de poesía erótica bastante explícita e ilustrada a mano.
@@ -79,7 +79,7 @@ Virellia por supuesto se va a los libros:
 
 Genya está mirando la mesa y descubre un sútil resorte y se abre un compartimento secreto. Encuentro un libro encuadernado en piel negra y una caja de madera. Hay muchos conjuros!!!
 En la caja hay 12 velas, pedernal, otro trozo de pergamino: Una lista directa de instrucciones marítimas. Sistema de comunicación marítima con destellos de luz con esa linterna de la mesa.
-![Pasted image 20260518222559.png](/img/user/Pasted%20image%2020260518222559.png)
+![Pasted image 20260518222559.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518222559.png)
 
 - **Señal del barco:** Largo-corto-corto-corto - ¿Es seguro acercarse?
 - **Respuesta desde Tierra:** Corto-largo-corto-largo - Todo seguro. Vía libre.
@@ -88,12 +88,13 @@ En la caja hay 12 velas, pedernal, otro trozo de pergamino: Una lista directa de
 Investigamos la bodega antes de movernos. Encontramos que el polvo no se acumula igual en todas la habitación. Hay algo que frecuentemente se arrastra por encima.
 Encontramos el muro giratorio, que deja entrar una ráfaga de aire frío con olor a sal que desciende. El eco rítmico de olas golpeando contra la roca.
 
-![Pasted image 20260518223921.png](/img/user/Pasted%20image%2020260518223921.png)
+![Pasted image 20260518223921.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518223921.png)
 
 ¡¡Bajamos!!
 Solo escuchamos las olas romper. Al continuar descendiendo con cuidado unos 35 pies. Hay una caverna que se ensancha mucho más grande.
+El principal avanza hacia el este. Uno más ancho hacia el sur, revelando a varios humanos sentados, hablando de sus cosas.
 
-![Pasted image 20260518224933.png](/img/user/Pasted%20image%2020260518224933.png)
+![Pasted image 20260518224933.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518224933.png)
 
 Virellia escucha risa que no son agradables. Voces de borracho por abajo.
 Distinguimos tonos de voz. Dos o tres barones que discuten sobre el curro.

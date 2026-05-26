@@ -14,7 +14,6 @@ Habilidades flexibles - Nadar, asustar...Podemos usar la fuerza para asustar
 Acción de Ender - Habrá masillas que habrá que eliminar de una. Cuando un enemigo adyacente a otro, si cae a 0 por daño cortante, y sobra daño, ataca al siguiente también.
 
 Nos encontramos en este pueblo pesquero. Eliander Fireborn, en el anterior, el olor a pergamino viejo y cera de vela.
-Esta biblioteca es
 
 A mi lado está Lodd, pasando páginas de un grimorio enorme. Hace tiempo que estaba buscándolo.
 Salimos a la calle para ir a la Cabra de Mimbre a cenar, invita Virellia!!
@@ -52,7 +51,7 @@ Nos vamos todos, la casa decrépita se alza en el acantilado. 35 pies de alto, c
 Una pesada de metal que yace abierta y rechina con el viento.
 Hay un pozo también.
 
-![Pasted image 20260504221351.png](/img/user/Pasted%20image%2020260504221351.png)
+![Pasted image 20260504221351.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260504221351.png)
 
 Lodd ve un destello. Un destello es un relámpago 
 

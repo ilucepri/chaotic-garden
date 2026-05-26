@@ -26,7 +26,7 @@ Aasimar originario de Muljomar (Egipto de nuestros días), suele ocultar sus ojo
 
 Livia viene de un pequeño reino élfico al norte. Noble exiliada.
 
-![Pasted image 20260516175657.png](/img/user/Pasted%20image%2020260516175657.png)
+![Pasted image 20260516175657.png](/img/user/images/otros/Pasted%20image%2020260516175657.png)
 
 Nos llevan dentro de la biblioteca!! Es un laberinto de pasillos.
 Nos llevan a una oficina con libros a doquier. Detrás del escritorio, detrás de una duna de libros, está la cabeza de un dracónido verde, que reconocemos con Skoda Balanaster o como le suelen llamar cariñosamente... "Bibliógrafo"
@@ -46,14 +46,14 @@ Hay magia protectora pero hay que tener cuidado.
 Investigar y volver. Si encontramos algo sobre el paradero se lo contamos.
 Es una investigación de carácter muy sensible. Por el bien entre la relación entre nuestras organizaciones, no hay que hablar con **NADIE**.
 
-![Pasted image 20260516181352.png](/img/user/Pasted%20image%2020260516181352.png)
+![Pasted image 20260516181352.png](/img/user/images/otros/Pasted%20image%2020260516181352.png)
 
 ## Despacho de Fistandia
 
 Joid, un chico que nos lleva. Tocar dos veces a la puerta. 
 Entramos al despacho. Hay un libro enorme cerrado. Hay materiales de escritura, una mochila tirada en un lado de la habitación. En las estanterías hay algunos libros y la mesa tiene dos cajones.
 
-![Pasted image 20260516181837.png](/img/user/Pasted%20image%2020260516181837.png)
+![Pasted image 20260516181837.png](/img/user/images/otros/Pasted%20image%2020260516181837.png)
 
 Dentro de los cajones hay muchas notas dentro. La misma caligrafía y se refieren al libro "El encanto de los espacios intradimensionales"
 Las notas hablan de viajes planares, crear espacios interdimensionales. 
@@ -92,7 +92,7 @@ Siguiente cuarto...altas estanterías en el medio de la habitación. Todo el cua
 Shedda consigue esquiar la estantería, pero Darian no!!. Recibe 4 golpes.
 
 Empezamos combate!! un montón de libros aletean y vuelan como un enjambre. 
-![Pasted image 20260516185526.png](/img/user/Pasted%20image%2020260516185526.png)
+![Pasted image 20260516185526.png](/img/user/images/otros/Pasted%20image%2020260516185526.png)
 
 Encontramos un libro que tiene el sygil de "R". En los escritorios encontramos un abre cartas enjoyado. 
 Salimos al patio. Vemos una extraña nebulosa. No vemos un cielo estrellado que reconozcamos. Es un miasma morada, vía láctea.
@@ -100,7 +100,7 @@ Salimos al patio. Vemos una extraña nebulosa. No vemos un cielo estrellado que 
 Seguimos investigando. Livia entra a un baño 
 Seguimos. Las cocinas tienen una gatera! hay un buen olor en la habitación. Hay un gigantesco horno en el sur y podemos ver varias hogazas de pan, queso y embutido. 
 
-![Pasted image 20260516193020.png](/img/user/Pasted%20image%2020260516193020.png)
+![Pasted image 20260516193020.png](/img/user/images/otros/Pasted%20image%2020260516193020.png)
 
 Homúnculos!!! Criaturas serviles creadas por los magos y atadas a su servicio. Un homúnculo desaparece cuando el mago muere. 
 
@@ -117,7 +117,7 @@ Grandes ventanales, larga mesa en el centro de la estancia. Hay séis sillas de 
 Al salir al balcón empieza a oler a algo dulzón a almendras amargas
 El corazón de Darian se acelera y se empieza a reír. Todo le parece súper interesante. Ve un dragoncito feérico que le deja una bolita iluminada. 
 
-![Pasted image 20260516194918.png](/img/user/Pasted%20image%2020260516194918.png)
+![Pasted image 20260516194918.png](/img/user/images/otros/Pasted%20image%2020260516194918.png)
 
 ### Piso de arriba
 Al subir al piso de arriba hay una armadura con la espada apuntando hacia abajo. Encima de la armadura hay una trampilla en el techo. 
@@ -132,7 +132,7 @@ Hay un mapa de la costa de la Espada en el que está marcado Guardalumbre con un
 
 Abrimos la puerta. Hay un espacio oscuro con una visión del firmamento y cinco telescopios cada uno en una punta. En el medio hay espacio para una esfera de cristal en una especie de pebetero.
 
-![Pasted image 20260516200636.png](/img/user/Pasted%20image%2020260516200636.png)
+![Pasted image 20260516200636.png](/img/user/images/otros/Pasted%20image%2020260516200636.png)
 
 Espadas encima de la chimenea, dos estatuas. Una con un arquero y otra de un guerrero. 
 En esa habitación hay otro libro con el sygil "S"
@@ -142,7 +142,7 @@ Espadas animadas y son inmunes al daño mental. Y lo más importante, están ata
 
 Después de pelear con las estrellas, vamos a la habitación del fondo. Una habitación con cama de matrimonio con dosel. En la cama hay una sombra. 
 
-![Pasted image 20260516204446.png](/img/user/Pasted%20image%2020260516204446.png)
+![Pasted image 20260516204446.png](/img/user/images/otros/Pasted%20image%2020260516204446.png)
 
 Matreus dice que por fin han venido a por él. No sabe salir. Ha encontrado cosas un poco útiles. 
 Hay un libro de madera con un símbolo arcano con la letra a "E"
@@ -154,7 +154,7 @@ IRISEL
 Los libros hablan de invocación de seres demoniacos.
 
 Bajamos por las escaleras y hay un lóbrego corredor. 
-![Pasted image 20260516211550.png](/img/user/Pasted%20image%2020260516211550.png)
+![Pasted image 20260516211550.png](/img/user/images/otros/Pasted%20image%2020260516211550.png)
 
 En una ornacina, hay 3 figuras de barro. Dos de ellas son humanoides alados y la otra es de diablillo. 
 El viejo de una bolsa saca una estatuilla de ónice. Claramente permanece a ese juego. 
@@ -163,7 +163,7 @@ IRISELB
 
 Huele a alcohol y a salmuera. Grandes vasijas de cristal. 
 
-![Pasted image 20260516212349.png](/img/user/Pasted%20image%2020260516212349.png)
+![Pasted image 20260516212349.png](/img/user/images/otros/Pasted%20image%2020260516212349.png)
 
 Hay un gusanito que se retuerce. En el tanque grande la izquierda hay varias manos cortadas.
 Cocatriz, flump, escarabajo de fuego gigante, un pseudo dragón, un bebé micónido, y un small grell. 
