@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/sesiones/ep-001-20260504-el-comienzo/"}
 ---
 
+# EP001 - 20260504 - El comienzo
+
 #rol #dnd #FantasmasSobreSaltmarsh #dnd/session
 
 [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]]

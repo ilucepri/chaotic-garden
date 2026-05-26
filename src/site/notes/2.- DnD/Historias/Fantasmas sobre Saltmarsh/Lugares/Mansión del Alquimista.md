@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/lugares/mansion-del-alquimista/"}
 ---
 
+# Mansión del Alquimista
+
 #rol #dnd #FantasmasSobreSaltmarsh  #dnd/lore
 
 [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]]
 
 ---
-### Lugares importantes
 
 A unos pocos kilómetros por la costa se alza una mansión en ruinas que perteneció a un alquimista loco. 
 Todo el mundo en Saltmarsh sabe que está maldita. Luces extrañas se ven en sus ventanas por la noche y nadie que haya entrado ha vuelto para contarlo... o eso dicen las leyendas locales para asustar a los niños.

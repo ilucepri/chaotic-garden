@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/sesiones/ep-004-20260525-por-los-pelos/"}
 ---
 
+# EP004 - 20260525 - Por los pelos
+
 #rol #dnd #FantasmasSobreSaltmarsh #dnd/session
 
 [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]]

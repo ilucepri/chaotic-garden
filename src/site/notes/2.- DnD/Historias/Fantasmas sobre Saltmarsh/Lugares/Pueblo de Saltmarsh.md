@@ -2,21 +2,22 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/lugares/pueblo-de-saltmarsh/"}
 ---
 
+# Pueblo de Saltmarsh
+
 #rol #dnd #FantasmasSobreSaltmarsh  #dnd/lore
 
 [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]]
 
 ---
-### Lugares importantes
+## Lugares importantes
 
 #### Taberna Cabra de Mimbre
 Su dueño, Lankus, es el padre adoptivo de Dravok. Buena gente.
 #### Puesto militar
 
-### NPCs
+## NPCs
 
 #### Eliander Fireborn
-
 ![npc_Eliander_Fireborn.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/npc_Eliander_Fireborn.png)
 *Capitán de la guardia real y miembro del consejo (Leal)*
 
@@ -35,7 +36,6 @@ Fue enviado a Saltmarsh hace tres años con un mandato claro: transformar este n
 - A corto plazo: Limpiar la costa de contrabandistas para que los mineros enanos puedan trabajar sin miedo. 
 - A largo plazo: Fortificar Saltmarsh antes de que estalle una guerra abierta contra los piratas del sur
 #### Eda Oweland
-
 ![npc_Eda_Oweland.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/npc_Eda_Oweland.png)
 *Líder de la Facción Conservadora y Miembro del Consejo*
 
@@ -54,7 +54,6 @@ Oficialmente, como líder de los Conservadores, se opone sistemáticamente a cua
 - A corto plazo: Mantener la autonomía de Saltmarsh y frenar la expansión de la guarnición de Eliander. 
 - A largo plazo: Asegurar que su familia siga siendo el corazón económico del pueblo, protegiendo las aguas del Mar Azur de lo que ella llama "el hambre del norte".
 #### Gellan Primewater
-
 ![npc_Gellan_Primewater.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/npc_Gellan_Primewater.png)
 *Miembro del consejo, Mercader aristócrata*
 
@@ -72,7 +71,6 @@ En el Consejo, Gellan suele votar con los Conservadores (Eda)
 - A corto plazo: Desconocido
 - A largo plazo: Desconocido
 #### Skerrin Wavechaser
-
 ![npc_Skerrin_Wavechaser.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/npc_Skerrin_Wavechaser.png)
 *Mayordomo de la familia Solmor*
 
@@ -87,7 +85,6 @@ Skerrin ha servido a la noble familia Solmor durante más de veinte años. Fue e
 - A corto plazo: Desconocido
 - A largo plazo: Desconocido
 #### Anders Solmor 
-
 ![npc_Anders_Solmor 1.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/npc_Anders_Solmor%201.png)
 *Jovencito del consejo y heredero de la flota Solmor*
 
@@ -104,7 +101,6 @@ Anders es un joven apuesto que heredó una de las mayores fortunas de Saltmarsh 
 - A largo plazo: Vengar la muerte de su madre erradicando la piratería en el Mar Azur
 
 #### Ferrin Castigary
-
 ![npc_Ferrin_Castigary 1.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/npc_Ferrin_Castigary%201.png)
 *Sabio de la Naturaleza y Guardián de las Marismas*
 
@@ -121,7 +117,6 @@ Su compañero inseparable es **Lumpy**, un sapo de aspecto aburrido que, según 
 - A corto plazo: Descubrir qué está corrompiendo la fauna marina local.
 - A largo plazo: Desconocido
 #### Wellgar Brinehanded
-
 ![npc_Wellgar_Brinehanded 1.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/npc_Wellgar_Brinehanded%201.png)
 *Sumo Sacerdote de Procan y Ex-Capitán Ballenero*
 

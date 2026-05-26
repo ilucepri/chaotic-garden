@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/sesiones/ep-002-20260511-la-mansion-del-alquimista/"}
 ---
 
+# EP002 - 20260511 - La mansión del alquimista
+
 #rol #dnd #FantasmasSobreSaltmarsh #dnd/session
 
 [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]]

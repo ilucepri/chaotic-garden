@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/index-de-fantasmas-sobre-saltmarsh/"}
 ---
 
+# Índice
 ## La Party
 - Genya Gulyayev - Manu
 - Arkos Hightower - Srdelavilla
