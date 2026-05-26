@@ -16,3 +16,8 @@ Todo el mundo en Saltmarsh sabe que está maldita. Luces extrañas se ven en sus
 - Parece que tiene una puerta en la que se encuentran no-muertos.
 - En la bodega hay una puerta secreta que da a los túneles que usan para el contrabando.
 - Biblioteca llena de libros jugosos.
+
+> [!Descubrimiento importante]
+> En las notas al margen de un diario confiscado de la época, Virellia encuentra un un apunte astrológico del propio alquimista. 
+> Mencionaba que *"las estrellas sobre el Mar Azur estaban convergiendo"* y solicitaba desesperadamente a sus proveedores locales especímenes de un **'coral rojo y palpitante'** que los pescadores sacaban por error en sus redes. Creía que ese organismo vivo era el catalizador biológico que le faltaba para su Piedra Filosofal. 
+> Después de esa nota, no hay más registros.
