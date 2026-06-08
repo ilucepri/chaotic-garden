@@ -11,7 +11,11 @@
 ---
 
 > [!Resumen] Resumen
-> Pendiente
+> Comenzamos nuestra pelea contra los guardias de la cueva. Matamos a todos menos a uno, que al encontrarse solito, se rindió. Su nombre es John y cuando Genya y Virellia empiezan el juego de poli malo y poli buena, les cuenta que el líder contrabandista se llama Sanbalet, y es muy escurridizo, peculiar, esconde su rostro y parece que hace algún tipo de magia con ilusiones.
+> También nos cuenta que en la habitación donde pone PELIGRO hay cadáveres levantados. Y que sabía del hombre que estaba en la bodega, pero que no sabía nada de los niños.
+> Resulta que no estamos solos en la cueva y nos acabamos enfrentando con guardia más directa de Sanbalet. Humanos y Hobgoblins, mientras el jefe abandona la cueva por una barca que había en uno de los túneles del sur. Tenemos una encarnizada lucha en la que Virellia cae y es salvada por Lodd.
+> Al final conseguimos que muchos se rinda y el resto son asesinados.
+> Uno de ellos intenta suicidarse pero Genya se lo impide. Y terminamos atándolos y quitándoles las armas para poder por fin descansar.
 >
 
 Empezamos la pelea contra los guardias!!
@@ -23,14 +27,14 @@ Genya se carga a otro con una buena carga.
 Lodd intenta intimidar al que queda vivo. El contrabandista termina tirando las armas.
 Dravok le quita las armas al tío
 
-El líder de los contrabandistas es Sambalet. Es un contrabandista que se encarga de hacer trueques entre diferentes grupos criminales. Siempre se escabulle y hace tratos. La guardia nunca da con él.
+El líder de los contrabandistas es Sanbalet. Es un contrabandista que se encarga de hacer trueques entre diferentes grupos criminales. Siempre se escabulle y hace tratos. La guardia nunca da con él.
 Nos describe cómo es: Peculiar, alto, siempre lleva la cara media tapada, es atractivo, lleva ropas muy holgadas de prenda única. No le ha visto arma. Siempre va con su bastón. Habla de sí mismo en tercera persona. El muchacho se llama John.
 El hombre este parece que hace imágenes en el aire. 
 
 John lleva dos meses en esta operación y se encarga de que nadie entre que no sea del grupo. La mercancía son joyas, lino, herramientas. Él no se encargaba de la linterna. Marty era el que se encargaba de eso. Nunca ha ido a la entrega.
 
 Pasan un par de veces al mes. Se hacen con cada luna llena y nueva. La luna está casi llena. Si no es mañana, pasado. 
-Abajo también se encuentra Sambalet y su guardia. Tiene 4 bichos que le acompañan y hablan un idioma extraño, rojos y con colmillos. 5 o 6 humanos. 
+Abajo también se encuentra Sanbalet y su guardia. Tiene 4 bichos que le acompañan y hablan un idioma extraño, rojos y con colmillos. 5 o 6 humanos. 
 
 John sabe sobre el cuerpo dela bodega. Dice que sorprendió a la gente y el resto le atacó.
 Arkos encuentra un pequeño mapa de la caverna con marcas. 

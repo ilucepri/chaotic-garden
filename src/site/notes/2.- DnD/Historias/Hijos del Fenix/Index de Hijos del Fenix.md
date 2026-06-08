@@ -12,5 +12,5 @@
 - Lux - Icli Asusi
 
 ## Sesiones
-- [[2.- DnD/Historias/Hijos del Fenix/Sesiones/EP001  - 20260521\|EP001  - 20260521]]
+- [[2.- DnD/Historias/Hijos del Fenix/Sesiones/EP01  - 20260521\|EP01  - 20260521]]
 - 
