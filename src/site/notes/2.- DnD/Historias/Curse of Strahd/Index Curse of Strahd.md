@@ -2,7 +2,11 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/index-curse-of-strahd/"}
 ---
 
-# Índice
+# Index de La Maldición de Strahd
+[[Home\|← Volver al Index de roles]]
+
+---
+
 ## La Party
 - Syn - Concha
 - Arkarian - Maikel

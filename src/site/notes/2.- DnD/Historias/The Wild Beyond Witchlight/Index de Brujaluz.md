@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/index-de-brujaluz/"}
 ---
 
+# Index de Las Tierras más allá de Brujaluz
+[[Home\|← Volver al Index de roles]]
+
+---
+
 ![cover.png](/img/user/2.-%20DnD/Historias/The%20Wild%20Beyond%20Witchlight/Docs/cover.png)
 
 ## Hermandad de los Ecos Perdidos

@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/index-de-oro-sobre-plata/"}
 ---
 
+# Index de Oro Sobre Plata
+[[Home\|← Volver al Index de roles]]
+
+---
 ## Faerun
 [Mapa](https://loremaps.azurewebsites.net/Maps/Faerun))
 
