@@ -129,3 +129,6 @@ Wellgar no siempre llevó túnicas. Durante cuarenta años fue el capitán del A
 **Objetivos** 
 - A corto plazo: Interpretar el significado de las mareas rojas que están tiñendo el puerto.
 - A largo plazo: Desconocido
+
+Manistrad Copperlord:
+Enana leal
