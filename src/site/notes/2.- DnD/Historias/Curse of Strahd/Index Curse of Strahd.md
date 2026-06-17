@@ -22,7 +22,7 @@
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP02 - 20250917\|EP02 - 20250917]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP03 - 20250924\|EP03 - 20250924]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP04 - 20251009\|EP04 - 20251009]]
-- [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP05 - 20251013\|EP05 - 20251013]]
+- [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP05 - 20251013 - Llegada a Barovia\|EP05 - 20251013 - Llegada a Barovia]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP06 - 20251103\|EP06 - 20251103]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP07 - 20251214\|EP07 - 20251214]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP08 - 20260115\|EP08 - 20260115]]
