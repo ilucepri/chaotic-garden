@@ -3,6 +3,7 @@
 ---
 
 # Index de La Maldición de Strahd
+
 [[Home\|← Volver al Index de roles]]
 
 ---
@@ -16,12 +17,17 @@
 
 ## Lugares y NPCs
 
+- [[2.- DnD/Historias/Curse of Strahd/Lugares/Campamentos Vistani\|Campamentos Vistani]]
+- [[2.- DnD/Historias/Curse of Strahd/Lugares/Pueblo de Barovia\|Pueblo de Barovia]]
+- [[2.- DnD/Historias/Curse of Strahd/Lugares/Vallaki\|Vallaki]]
+- [[2.- DnD/Historias/Curse of Strahd/Lugares/El exterior\|El exterior]]
+
 ## Sesiones
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP00 - 20250904\|EP00 - 20250904]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP01 - 20250909\|EP01 - 20250909]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP02 - 20250917\|EP02 - 20250917]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP03 - 20250924\|EP03 - 20250924]]
-- [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP04 - 20251009\|EP04 - 20251009]]
+- [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP04 - 20251009 - Fin de la mansión\|EP04 - 20251009 - Fin de la mansión]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP05 - 20251013 - Llegada a Barovia\|EP05 - 20251013 - Llegada a Barovia]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP06 - 20251103\|EP06 - 20251103]]
 - [[2.- DnD/Historias/Curse of Strahd/Sesiones/EP07 - 20251214\|EP07 - 20251214]]
