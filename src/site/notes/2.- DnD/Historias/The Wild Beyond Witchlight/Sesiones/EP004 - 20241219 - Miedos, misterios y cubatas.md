@@ -214,3 +214,6 @@ Bruja abe  mucho los ojos y mira a Rafe *"Tú, llama a Luz. Vosotros, venid conm
 Abre el muro de espinas y les espera. Triss aprovecha cuando pasan para cerrar el muro forzadamente.
 
 **-- FIN --**
+
+---
+[[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP003 - 20241127 - La Gran Extravaganza\|<- Anterior]] | [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP005 - 20250126\|Siguiente ->]]

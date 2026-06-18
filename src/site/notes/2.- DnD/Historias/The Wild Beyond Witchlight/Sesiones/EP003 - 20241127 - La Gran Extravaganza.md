@@ -116,3 +116,6 @@ También hay un dibujo, muy bien hecho, de dos niños calvos con orejas picudas 
 En el último grabado hay tres figuras. Parecen tres ancianas, pero están hechas deprisa y corriendo. Una de ellas parece encorvada y agachada, a otra le sale una protuberancia de la espalda, y la última tiene una figura esbelta y delgada, casi cadavérica.
 
 **-- FIN --**
+
+---
+[[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP002 - 20241121 - Juegos de Hadas\|<- Anterior]] | [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP004 - 20241219 - Miedos, misterios y cubatas\|Siguiente ->]]
