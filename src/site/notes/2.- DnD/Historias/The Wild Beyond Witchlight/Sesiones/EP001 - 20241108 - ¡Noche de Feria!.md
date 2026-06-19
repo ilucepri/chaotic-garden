@@ -33,7 +33,7 @@ En la cola se encuentran los personajes:
 - Tharad. Es un goliath de 2,29 metros de altura. Está lleno de cicatrices, tatuajes y bastantes decoraciones. Ahora lleva una chaqueta de marinero y lleva a la vista su sable, pero no de manera agresiva. En la otra cadea lleva el resto del equipo; utensilios de cocina y jabalinas. Está atento pero relajado.
 - Triss. Tiefling de 1,70m de altura, 10cm más si contamos los cuernos. Piel grisácea oscura con toque azulado y pecas de color blanco. Su pelo es corto, negro y tiene algunos mechoncitos blancos que encuadran su cara. Orejas largas, con accesorios dorados que acompañan al os de sus cuernos. Ojos demoníacos, con la esclera roja, la pupila amarilla y un iris gatuno, que esconde detrás de unas gafas rojas. Colmillos largos, labios negros y, aunque está tensa, está sonriendo al grupito. Viste austera pero tiene un toque elegante, con ropas de cuerpo negro y un abrigo amplio con un cuello con plumas y botas altas. Cola larga, terminada en punta de flecha, también tiene pequitas blancas.
 
-La taquilla es un tenderete pequeño de vivos colores, con una pixy en la parte superior haciendo de veleta. Dentro hay un goblin viejo viejísisisimo ([[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Nilkolas\|Nikolas]], con un catalejo para ver y una trompetilla para escuchar.
+La taquilla es un tenderete pequeño de vivos colores, con una pixy en la parte superior haciendo de veleta. Dentro hay un goblin viejo viejísisisimo ([[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Nilkolas\|Nikolas]], con un catalejo para ver y una trompetilla para escuchar.
 
 Al querer comprar cinco entradas para la feria les explica las reglas. Cada entrada da derecho a ocho atracciones. Si lo ven necesario luego podrían comprar más entradas sin problemas.
 
@@ -60,7 +60,7 @@ Mientras, una ardilla parlanchina corretea por las ramas del árbol, entregando 
 
 Al verles, la ardilla se les acerca con un montón de dientes de león en sus brazos y empieza a cantarles una canción de bienvenida :')
 
-Se presenta como [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Bermeja y Septentrión\|Bermeja]], la ardillita elegante.
+Se presenta como [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Bermeja y Septentrión\|Bermeja]], la ardillita elegante.
 
 Remi intenta robarla porque es demasiado mona.
 Les da un diente de león a Tharad, Triss y Remi. Al soplarlo cada uno tiene un deseo.
@@ -68,7 +68,7 @@ Les da un diente de león a Tharad, Triss y Remi. Al soplarlo cada uno tiene un 
 ==Deseo de Triss: "Poder encontrar a nuestro benefactor"==
 
 Bermeja ha deseado que se lo pasen bien todos.
-Les cuenta que su amigo [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Bermeja y Septentrión\|Septentrión]] es el árbol y tiene de regalo semillas de Sicomora. Si consiguen hacerse con una, tienen un regalo de bienvenida.
+Les cuenta que su amigo [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Bermeja y Septentrión\|Septentrión]] es el árbol y tiene de regalo semillas de Sicomora. Si consiguen hacerse con una, tienen un regalo de bienvenida.
 
 A Remi, Tharad y Lirael notan que está más contentos.
 - Rasgo de personalidad "Me divierto fácil hasta el amanecer"
@@ -76,7 +76,7 @@ Triss al coger una semilla, ve como se transforma en una pieza de oro.
 
 Tharad y Remi quieren empezar a beber ya, pero el grupo decide mirar un poco por alrededor antes. Como primer parada, quieren ir a Objetos Perdidos.
 
-Por el camino se encuentran a Calliope, el organillo. Hay un mono con una capa llena de botones y una goblin disfrazada de mariquita ([[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Ernest y Caléndula\|Caléndula y Ernest]]). Ernest les recomienda la mina del misterio, que lo lleva un mago loco. Y si no por la tetera Burbujera o el Carrusel.
+Por el camino se encuentran a Calliope, el organillo. Hay un mono con una capa llena de botones y una goblin disfrazada de mariquita ([[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Ernest y Caléndula\|Caléndula y Ernest]]). Ernest les recomienda la mina del misterio, que lo lleva un mago loco. Y si no por la tetera Burbujera o el Carrusel.
 Remi le regala varios de los botones de su pijama y el mono les dedica una rima "*Gracias por este botón aunque ya tenga un montón.*".
 Les recomienda que vayan al concurso de poesía gnoma!! y que para comer, mejor ir al Jardín del Jolgorio.
 
@@ -116,7 +116,7 @@ Les da la bola de espejos de Astro. Triss la guarda.
 *"Lo consideraré como la forma de pasar páginas.*
 *Si no lo encontráis, por favor, no me devolváis este recuerdo."*
 
-Su nombre es [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Dirlagraun\|Dirlagraun]].
+Su nombre es [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Dirlagraun\|Dirlagraun]].
 
 Aparte, compran piruletas para todos, incluído Virlo -menos Tharad-. Luli canta con el niño de camino a la caseta de Objetos Perdidos.
 
@@ -126,7 +126,7 @@ Cuando los chicos encuentran a Virlo, Dirlagraum les cuenta que los jefes de la 
 
 Caminando por la calle, empiezan a oler algo muy rico, y se dejan llevar hasta un puestecillo donde ven a un semi orco muy sudoroso cortando zanahoritas y lanzándolo a la olla. Está haciendo el guiso de su abuela orca.
 
-El orco se llama [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Rukard "Sazón" Braithorn\|Rukard "Sazón" Braithorn]]
+El orco se llama [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Rukard "Sazón" Braithorn\|Rukard "Sazón" Braithorn]]
 
 Hace buenas migas con Tharad, que es el chef del grupo. Ven como echa una gota del botecito de su cuello al guiso, avisándoles de que va a picar. 
 La cerveza va a cuenta de el semi-orco. Luli cuando la prueba ve que es muy potente, pero ella se la toma como si nada. El semi-orco dice que la fermenta dentro de un calcetín.
@@ -153,7 +153,7 @@ Luli se va con Lirael a ver a los bardos y Triss se enciende un cigarrito y se q
 La medio elfa escucha una melodía que le suena...muy parecida a la que estaba tocando cuando llegaron a la cola. Al acercarse ve que hay bardos tocando a su bola. Subida a un columpio, ven a una gnoma tocando el laúd mientras mira a Luli a los ojos. A su lado hay un drow con sombrero levemente tapándole los ojos, que está apoyado en el árbol y también rasgando las cuerdas de su laúd.
 
 Luli se presenta y pregunta con curiosidad de dónde ha sacado la canción, porque es igual a la suya. La halfling contesta evadiendo la pregunta. Al empujar un poco, se presenta.
-[[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Eliwick Rasguereta y Bregán Cobrecervino\|Eliwick Rasguereta]]. No hace falta que los chicos se presenten porque ya les conoce, pues es ella la misteriosa benefactora.
+[[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Eliwick Rasguereta y Bregán Cobrecervino\|Eliwick Rasguereta]]. No hace falta que los chicos se presenten porque ya les conoce, pues es ella la misteriosa benefactora.
 
 El drow se llama **Bregan Cobrecervino** y muy tranquilo les dice que están en el momento y lugar exacto.
 
@@ -217,7 +217,7 @@ El osgo comenta todo lo que han ido haciendo hasta ahora, ¡que no es poco! y se
 
 Tharad quiere echarle picante del colgante, pero Triss consigue convencerle de que es mejor que les "contrate".
 
-El bugbear se quita el casco y tiene una cara de preocupación. Se presenta como [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Rafe\|Rafe]]. 
+El bugbear se quita el casco y tiene una cara de preocupación. Se presenta como [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Rafe\|Rafe]]. 
 
 *"Bueno, verán...hace un tiempo que pasan cosas malas en la feria. La gente y las cosas desaparecen. Sé que mis jefes saben más de lo que dicen, pero tienen las manos atadas por algún motivo. Bruja y Luz son buena gente, pero necesitaréis una baza que les obligue a soltar prenda"*
 
@@ -225,7 +225,7 @@ Ahí les habla sobre los objetos de los jefes.
 - Bruja porta un reloj de oro que permite montar toda la feria. Lleva el reloj en uno de los bolsillos.
 - Luz porta la veleta de Brujaluz. Un objeto que muestra el ánimo de la fiesta. Es el objeto que elige al monarca de Brujaluz. Últimamente está muy contento, asi que parece que todo está yendo bien.
 
-Ofrece unos cuantos nombres de trabajadores que podrán ayudarles: [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Patacandela\|Patacandela]] y [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Palasha\|Palasha]]. Dilagraun**. Por el contrario, [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Gaco\|Gaco]] el payaso, que ya no actúa despué de un número con cuchillos, es peligroso. Odia a los niños y está muy amargado.
+Ofrece unos cuantos nombres de trabajadores que podrán ayudarles: [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Patacandela\|Patacandela]] y [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Palasha\|Palasha]]. Dilagraun**. Por el contrario, [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Gaco\|Gaco]] el payaso, que ya no actúa despué de un número con cuchillos, es peligroso. Odia a los niños y está muy amargado.
 Rafé no hará daño a los jefes de la feria.
 
 Patacandela es un mimo y le iba a pedir matrimonio a Palasha la sirena. Ha perdido la voz hoy mismo.
@@ -240,7 +240,7 @@ De repente escuchan unos abucheos y todos se giran, enfadados. Lirael incluso de
 Entre la gente ven a una señora embarazada leyendo y no dudan en perseguirla, porque Triss la reconoce como la mujer embarazada que ha visto durante la noche. La mujer escapa entre la multitud y el pasar por un poste se convierte en un muchacho enclenque con unas palabras mágicas.
 Después de una ardua carrera, consiguen atrapar al muchachito, que pierde la concentración y se transforma en un cuervo humanoide; un kenku.
 
-La kenku, que se presenta como [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Calderina\|Calderina]], se defiende de las acusaciones contándoles que quiere hacer ruido y montar un escándalo en la feria porque necesita hablar con sus dueños.
+La kenku, que se presenta como [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Calderina\|Calderina]], se defiende de las acusaciones contándoles que quiere hacer ruido y montar un escándalo en la feria porque necesita hablar con sus dueños.
 Es una warlock con una patrona feérica llamada Zybilna, y ésta ha desaparecido y no nota su conexión con ella. Sabe que Bruja y Luz están relacionados con el plano que gobierna Zybilna, Prismalia.
 La última vez que estuvo en la feria escuchó de los dueños lo siguiente:
 *"Alguien se va a enterar de esto!! nos van a cerrar la feria"*

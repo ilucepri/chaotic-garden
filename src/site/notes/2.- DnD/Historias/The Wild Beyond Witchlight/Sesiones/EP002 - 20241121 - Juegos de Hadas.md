@@ -89,7 +89,7 @@ Hay un payaso que está fumando una pipa de la que salen burbujas.
 *"No sabe nada. Pronto se frustrará y se irá"*
 *"Eso espero"*
 
-Abren la puerta para dejar pasar al grupo. Son elfos con la piel cenicienta.  [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Bruja\|Bruja]] viste con un traje y viste con una chistera, mientras que  [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Luz\|Luz]] lleva un traje de arlequín.
+Abren la puerta para dejar pasar al grupo. Son elfos con la piel cenicienta. [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Bruja\|Bruja]]] viste con un traje y viste con una chistera, mientras que [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Luz\|Luz]]] lleva un traje de arlequín.
 Dentro del carromato hay una veleta con forma de mariposa, apoyada en una pared.
 
 Luz les saluda animadamente y los presenta. Bruja se quita el sombrero, saludándoles con la cabeza.

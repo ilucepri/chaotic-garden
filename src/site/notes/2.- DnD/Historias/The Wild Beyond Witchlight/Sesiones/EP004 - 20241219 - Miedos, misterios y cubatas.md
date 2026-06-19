@@ -20,15 +20,15 @@
 
 Se va cerrando el espectáculo y los peones empiezan a acompañar a la gente a la salida. Hay ya gente limpiando el confeti y purpurina de la carpa. A la salida hay un elfo con zancos, que está pasando un cepillito por los hombros para limpiar a los visitantes.
 
-Tharad, Lirael y Luli están fuera. Tharad aprovecha que ve a Bruja terminar de hablar con [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Rafe\|Rafe]] para acercarse a él antes de que se vaya.
+Tharad, Lirael y Luli están fuera. Tharad aprovecha que ve a Bruja terminar de hablar con [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Rafe\|Rafe]] para acercarse a él antes de que se vaya.
 Bruja parece reticente a quedarse y hablar, pero Tharad le propone un brindis para celebrar lo bien que se lo está pasando. Lirael también intenta convencerlo con su voz tímida. Las cervezas.
 Bruja les contesta que Luz seguro está encantado de brindar con ellos, pero al final son insistentes y termina haciendo el brindis con el goliath.
 
 El plan de Tharad no sale muy bien, porque él le dio el picante a Lirael para que lo echara en una de las cervezas y luego darle esa a Bruja para intentar pararlo unos minutos y darle más tiempo a Triss y Remi. Pero le terminan dando la cerveza normal y Tharad se traga la que pica. 
 
-[[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Señor Bruja\|Bruja]] les da las gracias por hacer mucho por la feria y se termina yendo.
+[[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Señor Bruja\|Bruja]] les da las gracias por hacer mucho por la feria y se termina yendo.
 
-Luli mientras tanto va a buscar al [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Señor Luz\|Sr.Luz]], que está dando a los operarios y despidiendo a la gente.
+Luli mientras tanto va a buscar al [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Señor Luz\|Sr.Luz]], que está dando a los operarios y despidiendo a la gente.
 Empiezan a hablar de lo  bien que ha salido la Gran Extravaganza y de la pedida de matrimonio de los dos tortolitos. Ahí, Luli empieza a flirtear con él, diciendo que el amor llama al amor y que en estas situaciones entran ganas de amar. Guiñito incluído.
 
 Le pregunta si estas celebraciones de amor no las celebra él con su pareja. Luz le coge del hombro y le cuenta un secreto a voces. Bruja y él tienen una relación complicada.
@@ -90,7 +90,7 @@ Hay una centauro accionando el tío vivo, de colores blancos y pardos. Tiene una
 
 Ayuda a bajar a los niños mientras habla con el grupo. Les explica que el carrousel necesita algunas reparaciones, y a los cartelitos con el nombre de cada unicornio les faltan algunas letras. Dice la leyenda, que si se les pone su nombre de nuevo, cuentan cosas misteriosas.
 
-Se presenta como  [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz#Diana Galopona\|Diana Galopona]], y en realidad no es una centauro. Era una humana que hizo un mal trato. Hace muchos años tenía un caballo de guerra que murió en combate. Le pidió a alguien que le reuniera con él y...así quedó. Llegó a la feria y al final se hizo parte del grupo de trabajadores, que le pusieron el nombre de Galopona.
+Se presenta como  [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz#Diana Galopona\|Diana Galopona]], y en realidad no es una centauro. Era una humana que hizo un mal trato. Hace muchos años tenía un caballo de guerra que murió en combate. Le pidió a alguien que le reuniera con él y...así quedó. Llegó a la feria y al final se hizo parte del grupo de trabajadores, que le pusieron el nombre de Galopona.
 
 Su caballo se llamaba Canto de Invierno.
 

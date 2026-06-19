@@ -20,7 +20,7 @@
 
 ## Lugares y NPCs
 
-- [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/Feria de Brujaluz\|Feria de Brujaluz]]
+- [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz\|1.- Feria de Brujaluz]]
 
 ## Sesiones
 
