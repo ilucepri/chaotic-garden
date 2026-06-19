@@ -21,7 +21,9 @@
 ## Lugares y NPCs
 
 - [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/1.- Feria de Brujaluz\|1.- Feria de Brujaluz]]
-
+- [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/2.- Aquende\|2.- Aquende]]
+- [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/3.- Allende\|3.- Allende]]
+- [[2.- DnD/Historias/The Wild Beyond Witchlight/Lugares/4.- Acullá\|4.- Acullá]]
 ## Sesiones
 
 - [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP001 - 20241108 - ¡Noche de Feria!\|EP001 - 20241108 - ¡Noche de Feria!]]
