@@ -22,4 +22,4 @@
 - [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP004 - 20260525 - Por los pelos\|EP004 - 20260525 - Por los pelos]]
 - [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP005 - 20260601 - Explorando los túneles\|EP005 - 20260601 - Explorando los túneles]]
 - [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP006 - 20260608 - La invitación y día de compras\|EP006 - 20260608 - La invitación y día de compras]]
-- [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP007 - 20260615 - Hermanos antes unidos\|EP007 - 20260615 - Hermanos antes unidos]]
+- [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP007 - 20260615 - Hermanos de sal\|EP007 - 20260615 - Hermanos de sal]]

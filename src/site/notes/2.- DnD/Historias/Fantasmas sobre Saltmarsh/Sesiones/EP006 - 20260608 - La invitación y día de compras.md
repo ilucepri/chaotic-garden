@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/sesiones/ep-006-20260608-la-invitacion-y-dia-de-compras/"}
 ---
 
-# EP006 - 20260608
+# EP006 - 20260608 - La invitación y día de compras
 
 #rol #dnd #FantasmasSobreSaltmarsh #dnd/session
 
@@ -127,4 +127,4 @@ Una voz los llama la atención. Van al Mosquetón, el bar al que se dirigían. L
 - Ferrin está investigando la corrupción marina. Sus plantas también lo notan.
 
 ---
-[[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP005 - 20260601 - Explorando los túneles\|<- Anterior]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP007 - 20260615 - Hermanos antes unidos\|Siguiente ->]]
+[[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP005 - 20260601 - Explorando los túneles\|<- Anterior]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP007 - 20260615 - Hermanos de sal\|Siguiente ->]]

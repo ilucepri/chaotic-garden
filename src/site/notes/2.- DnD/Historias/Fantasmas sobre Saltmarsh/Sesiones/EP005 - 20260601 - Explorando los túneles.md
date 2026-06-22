@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/sesiones/ep-005-20260601-explorando-los-tuneles/"}
 ---
 
-# EP005 - 20260601
+# EP005 - 20260601 - Explorando los túneles
 
 #rol #dnd #FantasmasSobreSaltmarsh #dnd/session
 
