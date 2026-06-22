@@ -10,7 +10,12 @@
 
 ---
 
-*Las largas guerras del norte al fin han quedado atrás. El reino de Keoland, nuestro hogar, busca sanar sus heridas. Y el rey ha vuelto su mirada serena hacia el sur, hacia las aguas del Mar Azur. Y allí, mecida por las olas y abrazada por la niebla, descansa Saltmarsh. Durante generaciones, fue un refugio olvidado por el tiempo. Un hogar para pescadores de manos curtidas, marineros cansados y secretos que se hunden en el barro. Un lugar donde el mar dictaba la única ley. Pero los vientos están cambiando. Bajo el mandato de la corona han llegado nuevas leyes y constructores buscando arrancar riquezas a la piedra. Lo antiguo y lo nuevo se miran con recelo en las calles estrechas. Las viejas costumbres se resisten a desaparecer. Esta noche, la brisa trae el aroma de una tormenta mientras el pueblo se resguarda junto al calor del fuego. Algo mucho más antiguo y frío aguarda paciente bajo las aguas oscuras. Bienvenidos a Saltmarsh.*
+*Las largas guerras del norte al fin han quedado atrás. El reino de Keoland, nuestro hogar, busca sanar sus heridas. Y el rey ha vuelto su mirada serena hacia el sur, hacia las aguas del Mar Azur. 
+Y allí, mecida por las olas y abrazada por la niebla, descansa Saltmarsh. 
+Durante generaciones, fue un refugio olvidado por el tiempo. Un hogar para pescadores de manos curtidas, marineros cansados y secretos que se hunden en el barro. Un lugar donde el mar dictaba la única ley. Pero los vientos están cambiando. Bajo el mandato de la corona han llegado nuevas leyes y constructores buscando arrancar riquezas a la piedra. Lo antiguo y lo nuevo se miran con recelo en las calles estrechas. Las viejas costumbres se resisten a desaparecer. 
+Esta noche, la brisa trae el aroma de una tormenta mientras el pueblo se resguarda junto al calor del fuego. 
+Algo mucho más antiguo y frío aguarda paciente bajo las aguas oscuras. 
+Bienvenidos a Saltmarsh.*
 
 ---
 ## Pueblo de Saltmarsh
