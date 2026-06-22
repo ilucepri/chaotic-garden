@@ -8,70 +8,87 @@
 
 [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]]
 
-----
+---
 
-Dravok pasa mucho rato en el muelle y en la taberna de su padre, Lankus. Cabra de mimbre.
-Heridas persistentes.
-Habilidades flexibles - Nadar, asustar...Podemos usar la fuerza para asustar
-Acción de Ender - Habrá masillas que habrá que eliminar de una. Cuando un enemigo adyacente a otro, si cae a 0 por daño cortante, y sobra daño, ataca al siguiente también.
+*Las largas guerras del norte al fin han quedado atrás. El reino de Keoland, nuestro hogar, busca sanar sus heridas. Y el rey ha vuelto su mirada serena hacia el sur, hacia las aguas del Mar Azur. Y allí, mecida por las olas y abrazada por la niebla, descansa Saltmarsh. Durante generaciones, fue un refugio olvidado por el tiempo. Un hogar para pescadores de manos curtidas, marineros cansados y secretos que se hunden en el barro. Un lugar donde el mar dictaba la única ley. Pero los vientos están cambiando. Bajo el mandato de la corona han llegado nuevas leyes y constructores buscando arrancar riquezas a la piedra. Lo antiguo y lo nuevo se miran con recelo en las calles estrechas. Las viejas costumbres se resisten a desaparecer. Esta noche, la brisa trae el aroma de una tormenta mientras el pueblo se resguarda junto al calor del fuego. Algo mucho más antiguo y frío aguarda paciente bajo las aguas oscuras. Bienvenidos a Saltmarsh.*
 
-Nos encontramos en este pueblo pesquero. Eliander Fireborn, en el anterior, el olor a pergamino viejo y cera de vela.
+---
+## Pueblo de Saltmarsh
+### La biblioteca de Eliander
 
-A mi lado está Lodd, pasando páginas de un grimorio enorme. Hace tiempo que estaba buscándolo.
-Salimos a la calle para ir a la Cabra de Mimbre a cenar, invita Virellia!!
+Lluvia azotando los ventanales. Virellia lleva horas absorta en mapas estelares y tratados naturalistas. Lodd está a su lado pasando páginas de un grimorio enorme de botánica que le ha costado llevar a la mesa, pero que hacía tiempo que buscaba. Compartir espacio con esta erudita de la capital le resulta extraño, pero Eliander les dio acceso a la biblioteca.
 
-Junto a un grupo de músicos, se encuentra Arkos, explicándoles lo que quiere hacer. Requiere de acompañamiento musical. 
-Aparece el compañero de fiestas, Dravok
+### La Cabra de Mimbre
 
-La canción habla de Dravok!!! y es muy maja, está más animado
-"¡¡Canta la de la estrella!!" le piden después de que ha cantado otra canción triste.
+La lluvia sigue cuando Virellia y Lodd salen a cenar. El guardia de turno en la puerta de la mansión, Genya, con tres días libres por delante, los acompaña caminando en la misma dirección pero sin decir que va con ellos.
 
-Genya encuentra por las calles de la ciudad, le esperan 3 días libres después de 10 días trabajando seguido. Algo llama su atención. Ha visto un brillo, una centella que se ha movido muy rápido y se ha escondido pasada la casa de Eliander.
+Desde la ventana abierta de la cocina de la Cabra de Mimbre ya se escucha la música antes de llegar, junto con el olor de un guiso que deja la barriga vacía de golpe.
 
-Llega a la esquina donde le pareció ver algo y vio pisadas que salen de la casa de Eliander. Dos pisadas a la salida del pueblo. 
-En frente está el cuartel. 
-Una bata con puntos blancos que anda hacia delante.
-El guardia se acerca a Viri y Lodd 
-El olorcito rico de la cena no es lo único que sale de esos muros, también se escucha la canción de la Estrella.
+Dentro, Arkos está tocando para los parroquianos, con Dravok a su lado riéndose de la situación. La canción es nueva, la acaba de escribir:
 
-Luz celestial que los hombres no saben leer, llegó de la gran miembr
-No mira las redes, sus ojos de plata persiguen el cielo estelar. 
-Tu vida es un río eterno, la mía es un soplo de luz. Cuentan que hablan de los astros. y yo desde esta tarbena te dedico mi mejor canción.
+---
 
-Un humano exiliado, es tiempo de nacer y perecer....
+*En este puerto de barro y de sal, donde el viento castiga la piel, ha bajado una luz celestial que los hombres no saben leer. No mira las redes ni el viejo muelle de Saltmarsh. Sus ojos de plata persiguen la luna y el cielo estelar. Oh, dama de cristal, que eres el mar azul. Tu vida es un río eterno, la mía es un soplo de luz. Cuentan que hablas con los astros, que la magia es tu voz. Y yo desde esta taberna te dedico mi mejor canción.*
 
-Arkos y Virellia se ponen todos rojísimos.
-Al final se juntan todos.
+---
 
-La puerta vuelve a abrirse después de un par de segundos de que Genya vuelva de dar de comer a sus compañeros guardias,
+Cuando Virellia entra justo al final de la canción y toda la taberna se gira a mirarla, tanto ella como Arkos se ponen colorados. Lodd le susurra que no le invite más al guardia. Dravok se parte de risa. Lankus, el padre adoptivo de Dravok, mueve a los grupos con eficiencia de enano.
 
-"Ayuda, POR FAVOR, AYUDA. SE LOS HAN LLEVADO, ESTÁN AHÍ DENTRO" "Solo queríamos jugar, solo era una apuesta. Ir a la casa de alquimista, 4 millas al este...la puerta estaba rota y entramos al pasillo, todo estaba frío y oscuro. De pronto, las sombras se movieron, no tenían rosto, eran fantasmas, espectros con capas largas, flotando en lao oscuridad....AGARRARON A PIP POR LA ESPALDA, NO PUDIERON NI GRITAR. SE LLEVARON A ELARA Y A TOMMY HACIA LA BODEGA... yo me escondí, me hice un ovillo...salí corriendo, sin mirar atrás, con la lluvia golpeándome la cara...por favor, se lo ruego a todos....están vivos pero las sombras los tienen, son fantasmas...los fantasmas han vuelto....ayudadles...por favor"
+Arkos le explica a Genya que encontró la motivación para escribir canciones nuevas después de conocer a Dravok y sus historias... y de ver a cierta elfa.
 
-Genya va a avisar a los guardias, pero están que no aguantan el picante. 
+La puerta de la taberna se abre de golpe con la lluvia entrando. Un niño empapado, sin aliento, los ojos llenos de pánico:
 
-Nos vamos todos, la casa decrépita se alza en el acantilado. 35 pies de alto, coronada por un techo a dos aguas, al que le faltan muchas de sus tejas. 
-Una pesada de metal que yace abierta y rechina con el viento.
-Hay un pozo también.
+*"Ayuda, POR FAVOR, AYUDA. SE LOS HAN LLEVADO, ESTÁN AHÍ DENTRO. Solo queríamos jugar, solo era una apuesta. Ir a la casa del alquimista, cuatro millas al este. La puerta estaba rota y entramos al pasillo, todo estaba frío y oscuro. De pronto, las sombras se movieron, no tenían rostro, eran fantasmas, espectros con capas largas, flotando en la oscuridad. Agarraron a Pip por la espalda, no pudieron ni gritar. Se llevaron a Elara y a Tommy hacia la bodega. Yo me escondí, me hice un ovillo. Salí corriendo sin mirar atrás, con la lluvia golpeándome la cara. Por favor, se lo ruego a todos. Están vivos pero las sombras los tienen, son fantasmas. Los fantasmas han vuelto. Ayudadles. Por favor."*
 
-![Pasted image 20260504221351.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260504221351.png)
+Genya va a avisar a los guardias del cuartel, pero el turno de noche está que no aguanta el picante de la cena. No van a servir de mucho esta noche.
 
-Lodd ve un destello. Un destello es un relámpago 
+El grupo decide ir.
 
-A Genya le ataca una serpiente.
-Entramos a la mansión. El interior está decrépito y muy húmedo, olor a moho gris, a polvo espeso y a madera podrida nos golpea.
-Suelo lleno de yeso, muebles destrozados.
-A nuestra izquierda, un pasillo oscuro
-Frente a nosotros, otro corredor a la parte trasera
-Y a la derecha una escalera de madera en un estado de dudosa calidad que se eleva hacia un segundo piso que desemboca a un balcón para ver el piso de abajo.
+## La mansión del alquimista
 
-Bajos esas escaleras hay otro pasillo que se envuelve hacia el oeste. 
-La luz o el polvo movido del sueño nos revela algo que nos hiela la sangre. El pequeño Timmy nos dijo que no hacían sonido al moverse, pero en el suelo hay huellas embarradas pero por encimas de ellas hay huellas de botas pesadas. 
+La casa decrépita se alza en el acantilado. 35 pies de alto, coronada por un techo a dos aguas al que le faltan muchas tejas. Una pesada puerta de metal yace abierta y rechina con el viento. Hay un pozo en el exterior.
 
-La comadreja se queda quieta a la altura de este cuadrado.
+Un relámpago ilumina la fachada cuando llegan. Genya nota una serpiente entre la maleza.
 
-Chimenea abandonada y en las esquinas como si alguien hubiera barrido o empujado todo trozo más grande que un dedal para amontonar la basura. Algún que otro libro, medio abierto. 
+### **COMBATE — Serpiente pitón**
 
-Trampilla. Al momento de abrirla y levantar la trampilla, 
+La serpiente salta sobre Genya y la muerde en el hombro, enroscándose. Dravok, con los tatuajes iluminándose como rayos y los ojos cargados de electricidad, saca el alfanje de la espalda y la decapita de un solo mandoblazo.
 
-Una boca espectral, brillante y muy desproporcionada se forma en el aire desde el suelo, casi usando el mismo polvo que levanó al abrirla. Al principio no dice nada y proyecta una voz mágica, potente "BIENVENIDOS, TONTOS. BIENVENIDOS A SU TUMBA" una risa atronadora suena cuando el mensaje termina. 
+Lodd venda la herida de Genya. Virellia guarda la cabeza de la serpiente en un paño.
 
+### Dentro de la mansión
+
+El umbral amortigua la tormenta. Olor a moho gris, polvo espeso y madera podrida. El suelo sembrado de yeso caído y restos de muebles destrozados.
+
+Distribución de la planta baja:
+- A la izquierda, un pasillo oscuro.
+- Al frente, un corredor hacia la parte trasera.
+- A la derecha, una escalera de madera de dudosa calidad hacia el segundo piso y un balcón.
+- Bajo las escaleras, otro pasillo que se envuelve hacia el oeste.
+
+La chimenea está abandonada. Las esquinas tienen la basura empujada y apilada, libros medio abiertos entre los escombros.
+
+En el suelo hay huellas embarradas, pero sobre ellas hay huellas de botas pesadas. Alguien ha estado aquí recientemente.
+
+Una comadreja (la mascota de Lodd) se queda quieta y tensa.
+
+Encuentran una trampilla. Al abrirla, una boca espectral brillante y muy desproporcionada se forma en el aire desde el polvo levantado. Un silencio. Luego una voz mágica, potente:
+
+*"BIENVENIDOS, TONTOS. BIENVENIDOS A SU TUMBA."*
+
+Una risa atronadora. La trampilla revela una escalera hacia abajo. De ahí sube luz y olor agradable a comida.
+
+La sesión termina aquí.
+
+---
+
+## Información clave
+
+- La mansión del alquimista está cuatro millas al este de Saltmarsh.
+- Tres niños entraron: Pip, Elara y Tommy. Solo uno escapó.
+- Hay alguien usando la mansión activamente (huellas de botas).
+- La voz de la trampilla parece una ilusión o trampa mágica, no un fantasma real.
+- Personajes: Virellia y Lodd trabajan en la biblioteca de Eliander. Genya es guardia de Keoland. Arkos y Dravok se conocieron en la Cabra de Mimbre. Lankus (padre adoptivo de Dravok) regenta la taberna.
+
+---
+[[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP002 - 20260511 - La mansión del alquimista\|Siguiente ->]]

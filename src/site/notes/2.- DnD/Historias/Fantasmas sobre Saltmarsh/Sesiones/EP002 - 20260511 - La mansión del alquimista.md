@@ -8,53 +8,54 @@
 
 [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Index de Fantasmas sobre Saltmarsh\|← Volver al Index]]
 
--------
-## Casa del Alquimista
+---
 
-Hay una escalera al abrir la trampilla. Del agujero sale luz y olor agradable a comida. 
-Dravok baja la trampilla de un salto y mira lo que hay dentro. En principio está todo vacío. Virellia, Lodd, Arkos y Genya bajan en ese orden.
-Entra a una cámara con antorchas. 10 camas toscas en la pared sur alineadas, cada una con un baúl. Hay una larga mesa con restos de comida. Al fondo derecha desde la escalera hay dos puertas, la del fondo se lee "PELIGRO" y hay un madero para que no se abra. 
+*Después de entrar en la mansión y descubrir la trampilla al sótano, el grupo bajó y descubrió a los que a todas luces parecían ser contrabandistas. Hubo una pelea en la que Arkos salvó la vida de más de una persona. Después de acabar con los bandidos, encontraron a los niños escondidos bajo la última cama, y le dijeron a Arkos que los llevara de vuelta al pueblo mientras el resto seguía investigando. Encontraron una puerta secreta detrás de una chimenea y en la sala oculta había un cadáver que parecía ser de un miembro de la guardia, con una nota de Eliander pidiéndole que investigara la vieja mansión. Tras eso, subieron por las escaleras de esa sala.*
 
-**¡Es una emboscada!!**
+---
+### La bodega
 
-![Pasted image 20260511211442.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260511211442.png)
+Del agujero de la trampilla sube luz y olor agradable a comida. Dravok baja de un salto. El resto baja en orden: Virellia, Lodd, Arkos y Genya.
 
-Lodd cae pero Arkos le cura. Virellia salta la escalera para ayudar a Lodd cuando él se mete por debajo de la mesa.
+Es una cámara iluminada con antorchas. Diez camas toscas alineadas en la pared sur, cada una con un baúl. Una larga mesa con restos de comida. Al fondo a la derecha, dos puertas: una normal y una con un madero atado y la palabra "PELIGRO" escrita.
 
-![Pasted image 20260511220310.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260511220310.png)
+#### **COMBATE — Los contrabandistas**
 
-PIM PAM PUM, acaban todos muertos y nosotros sorprendentemente enteros!
+Es una emboscada. El grupo que vive aquí estaba esperando. Lodd cae por los golpes iniciales pero Arkos le cura con Healing Word antes de que se desangre. Virellia salta la escalera para ayudar. El combate es caótico pero el grupo aguanta. Genya intimida al último superviviente con voz de mando y el hombre tira las armas.
 
-Hay niños debajo de última cama, con las bocas tapadas con paños sucios. Hacemos que Arkos se vaya con ellos de vuelta al pueblo. 
-Dravok golpea a uno de los cadáveres que estaba en la chimenea y algo hace CLONK. Uno de los ladrillos está suelto y todos ceden, revelando una puerta secreta.
+Encuentran a los niños debajo de la última cama: Pip, Elara y Tommy, con las bocas tapadas con paños sucios. Están bien. Arkos se los lleva al pueblo.
 
-Este grupillo parece que si los hemos visto, no nos acordaos.
-Virellia ha estado intentando escuchar algo a través de las otras puertas. Ni un mísero sonido viniendo de ambas. 
+Dravok golpea uno de los cadáveres que estaba apoyado en la chimenea y algo hace CLONK. Un ladrillo está suelto; al empujarlo, todos los demás ceden: hay una puerta secreta.
 
-Cruzamos la chimenea. Es una sala cubierta de cristales por los suelos. Una vinoteca con todas las botellas desparramadas por el suelo. Alto olor a vinagre.
-
-Hay un cadáver apoyado en las vitrinas de vino. Parece que ha muerto a golpes y lleva un par de decanas aquí.
+### La sala oculta — la vinoteca
 
 ![Pasted image 20260511222808.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260511222808.png)
 
-A la izquierda hay una escalera y al final una puerta. 
+Una sala cubierta de cristales rotos de botellas de vino en el suelo. Una vinoteca con todo desparramado y un olor intenso a vinagre. Hay un cadáver apoyado en las vitrinas, muerto a golpes, con un par de décadas de antigüedad. Lleva el escudo de la guardia de Saltmarsh.
 
-Al meter mano, el pecho se le hunde y comienzan a picarle a Genya un montón de bichos, que le muerden sin descanso. Consiguen encontrar las partes blandas de su piel y le hacen 6 puntos de daño de veneno.
+Al rebuscarle en los bolsillos, el pecho se hunde y aparece un enjambre de insectos que han estado viviendo dentro del cuerpo. Trepan por el brazo de Genya.
 
-Entre todos conseguimos deshacernos de los bichos antes de que le hagan más daño.
+#### **COMBATE — El enjambre de insectos**
 
-El cuerpo tiene un trozo de pergamino con un mensaje 
+Virellia usa Shape Water para mover el vino del suelo y arrojarlo sobre la armadura de Genya, arrancando a la mitad de los insectos de golpe. Lodd intenta su spray de veneno de algas pero los bichos lo esquivan. Entre todos los eliminan.
 
-> [!NOTE]
-> "Quiero que investigues la vieja mansión. Hay sospechas de que está siendo usada para contrabando. Ten mucho cuidado. Si encuentras cualquier cosa, vuelve e informe.
-> 
-> E"
+En el bolsillo del cadáver hay un trozo de pergamino:
 
-Parece ser un aventurero cualquiera pero carga escudo y espada de la guardia. Tenemos claro que es el capitán el que mandó al hombre a investigar.
+> *"Quiero que investigues la vieja mansión. Hay sospechas de que está siendo usada para contrabando. Ten mucho cuidado. Si encuentras cualquier cosa, vuelve e infórmame. 
+> E."*
 
-Subimos de nuevo a la planta 0 de la mansión del alquimista desde la escalera de la vinoteca!!
+Firmado con una inicial. Alguien del rango de Eliander mandó a este hombre a investigar y no volvió.
 
-![Pasted image 20260511225747.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260511225747.png)
+### De vuelta a planta baja
 
+Suben por las escaleras de la vinoteca al piso principal. Queda mucho por explorar.
 
+---
+## Información clave
 
+- Los tres niños (Pip, Elara, Tommy) rescatados. Arkos los lleva al pueblo.
+- El cadáver de la vinoteca era un agente enviado por "E." (casi con certeza Eliander). Nadie lo había reportado como desaparecido en la capitanía.
+- La habitación con "PELIGRO" sigue sin abrir.
+
+---
+[[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP001 - 20260504 - El comienzo\|<- Anterior]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP003 - 20260518 - Ciempiés y túneles\|Siguiente ->]]

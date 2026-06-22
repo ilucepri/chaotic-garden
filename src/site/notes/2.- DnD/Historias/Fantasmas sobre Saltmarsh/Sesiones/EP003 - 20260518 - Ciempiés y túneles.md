@@ -10,97 +10,75 @@
 
 ---
 
-> [!Resumen]
-> *Arkos logró llevar a los niños de vuelta al pueblo, donde las familias están súper agradecidas e intentan pagarle, cosa que rechaza. Le cuenta a la gente lo que ha pasado mientras le invitan a unas cervezas. La llegada de un enano de la casa Thunderstrike hace que Lankus, preocupado, le recomiende salir discretamente por la puerta trasera.*
-> *El bardo se reune con el resto del grupo en la Casa del Alquimista, abandonada desde la desaparición de su dueño hacía treinta años. Allí fueron atacados por múltiples ciempiés gigantes, cuyo veneno dejó fuera de combate a Lodd y Dravok. Tras sobrevivir al enfrentamiento, descansaron en las camas de los contrabandistas muertos, Arkos recuerda que uno de los niños había mencionado haber visto luces señalando hacia el mar desde el piso superior.*
-> 
-> *Explorando una de las habitaciones de la bodega, descubrieron que estaba sorprendentemente limpia y ordenada.* 
-> *Encontraron:* 
-> - *Un tratado sobre el culto al semidiós del engaño y la maldad.*
-> - *Oculto entre sus páginas, órdenes traducidas del goblin al común*
-> - *Almanaque naval lleno de anotaciones recientes.*
-> - *Libro de conjuros* 
-> - *Sistema de señales luminosas utilizado para comunicarse con barcos desde la costa, confirmando que la casa servía como base de contrabando.*
-> - *Un escudo antiguo de que ya no existe. Alianza de Keoland.*
-> 
-> *Investigando la bodega, hallaron un muro giratorio que ocultaba unas escaleras descendiendo hacia una caverna marina. Las voces de borrachos hacen que se preparen para el combate*
+*Arkos logró llevar a los niños de vuelta al pueblo, donde las familias están súper agradecidas e intentan pagarle, cosa que rechaza. Le cuenta a la gente lo que ha pasado mientras le invitan a unas cervezas. La llegada de un enano de la casa Thunderstrike hace que Lankus, preocupado, le recomiende salir discretamente por la puerta trasera. El bardo se reúne con el resto del grupo en la mansión del alquimista, abandonada desde la desaparición de su dueño hacía treinta años. Allí fueron atacados por múltiples ciempiés gigantes, cuyo veneno dejó fuera de combate a Lodd y Dravok. Tras sobrevivir al enfrentamiento, descansaron en las camas de los contrabandistas muertos. Uno de los niños había mencionado haber visto luces señalando hacia el mar desde el piso superior. Explorando una de las habitaciones de la bodega, descubrieron que estaba sorprendentemente limpia y ordenada. Encontraron libros, un sistema de señales luminosas y un muro giratorio que ocultaba unas escaleras hacia una caverna marina.*
 
 ---
+
 ## Pueblo
 
-Arkos se dirige con los niños hacia el pueblo. Empieza a haber mucho alboroto, sobre todo por las familias de los peques.
-Un hombre le tiende la mano, muy grande y susurra
-*"No sé quién cojones eres pero nadie...nadie. Ni siquiera yo...tenía el valor de acercarnos a ese lugar. Los niños piensan que es un juego, pero el respeto a las..."*
-Le da una bolsita con las pagas semanales de las familias pero Arkos lo detiene y dice que no, agradeciendo la generosidad de la gente del pueblo.
+Hay mucho alboroto en las calles cuando Arkos llega con los niños. Un hombre enorme le tiende la mano y le susurra:
 
-Lo llevan al bar de nuevo y Arkos cuenta la historia de lo que ha estado pasando. 
-La puerta se abre con toda la tranquilidad del mundo. Entra alguien muy bajito, un enano. Viste diferente al de las minas. Armadura de placas, cota de malla...en su hombrera lleva el blasón de la casa Thunderstrike.
-El enano se sienta en un taburete y empieza a hablar con Lankus en murmullos. Carraspea.
-Alguien en la taberna reacciona ante este carraspeo y otras dos personas cubren a Arkos del enano.
-Lankus se acerca y con tranquilidad le dice *"Ya es hora de que vuelvas, pero sal por la puerta de atrás. Luego venid aquí, que invito a otra ronda"*
-## Casa del Alquimista
+*"No sé quién cojones eres pero nadie, nadie. Ni siquiera yo, tenía el valor de acercarnos a ese lugar. Los niños piensan que es un juego, pero el respeto a las..."*
 
-Subimos la trampilla
+Le ofrece a Arkos una bolsita con las pagas semanales de las familias. Arkos la rechaza.
 
-![Pasted image 20260518205908.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518205908.png)
+Le llevan al bar de nuevo. Arkos cuenta lo que ha pasado. La puerta se abre y entra alguien muy bajito: un enano. Pero no viste como los mineros de las minas. Lleva armadura de placas y cota de malla. En su hombrera hay el blasón de la **Casa Thunderstrike**. Se sienta en un taburete y empieza a hablar con Lankus en murmullos.
 
-![Pasted image 20260518210247.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518210247.png)
-![Pasted image 20260518210542.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518210542.png)
+Alguien en la taberna reacciona ante la presencia del enano y otras dos personas se colocan de forma que cuidan a Arkos. Lankus se acerca con calma:
 
-En el barril podemos encontrar...nada :). Hace mucho que no contiene nada, pero cuando lo hacía, contenía licor.
+*"Ya es hora de que vuelvas, pero sal por la puerta de atrás. Luego venid aquí, que invito a otra ronda."*
 
-![Pasted image 20260518210734.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518210734.png)
+Arkos sale por detrás y vuelve a la mansión.
 
-Lo único que sabemos es que el alquimista desapareció hace 30 años.
-![Pasted image 20260518211001.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518211001.png)
+## Mansión del Alquimista
+### **COMBATE — Los ciempiés gigantes**
 
-De las paredes salen 5 ciempiés enormes que empiezan a atacarnos. Tanto Lodd como Dravok caen ante los ataques y el veneno.
+Del armario de la planta baja salen cinco ciempiés enormes. Son rápidos, tienen un alcance considerable con sus mandíbulas y su veneno es potente. Tanto Lodd como Dravok caen ante los ataques y el veneno durante el combate. El resto los sostiene hasta que terminan con los últimos.
 
-![Pasted image 20260518211732.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518211732.png)
+Virellia consigue tres patas y uno de los ganchos de los ciempiés. Material para componentes o para vender.
 
-Virellia consigue 3 patas y uno de los ganchos de los ciempiés!!
+El grupo descansa en las camas de los contrabandistas.
 
-![Pasted image 20260518214026.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518214026.png)
+Uno de los niños le dijo a Arkos antes de volver al pueblo que vieron luces en el piso superior que apuntaban hacia el mar.
 
-Nos quedamos descansando en las camas de los contrabandistas que matamos.
-Uno de los niños le dice a Arkos antes de que llegaran al pueblo que vieron luces en el piso superior que apuntaban hacia el mar. 
+### La habitación ordenada
 
-Por fin, entramos a la habitación en la que no pone "Peligro" Parece bien cuidada. Está limpia, ordenada. En el noroeste una cama con un baúl a sus pies y una mesa.
-Sobre la mesa hay un candelabro con elas y podemos distinguir debajo de la mesa una pequeña caja de madera con una linterna. Sobre el estante hay unos cuantos libros.
-El estandarte de la habitación es de un blasón que ya no existe. Y si está ahí parece que es porque es un botín de guerra. Era de gente importante, de origen militar.
-Alianza del reino de Keoland pero todavía hay casas que lo pueden reconocer.
+La puerta sin el cartel de "PELIGRO" lleva a una habitación sorprendentemente limpia y ordenada. En contraste con el resto de la mansión, aquí alguien ha estado viviendo cómodamente. Una cama con baúl, una mesa con candelabro, y en el estante varios libros.
 
-![Pasted image 20260518220447.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518220447.png)
+El estandarte de la habitación corresponde a un blasón que ya no existe: la **Alianza del reino de Keoland**, un símbolo de hace décadas. Si está aquí es como botín de guerra o como reliquia de alguien de origen militar.
 
-Virellia por supuesto se va a los libros:
-- El primero es un volumen de poesía erótica bastante explícita e ilustrada a mano.
-- El segundo es un almanaque naval detallado con los horarios de las mareas de la costa de Saltmarsh; notas que tiene anotaciones recientes en los márgenes sobre los ciclos de la luna nueva.
-- El tercero es un denso y oscuro tratado teológico sobre el culto a Iuz, el temido semidiós del engaño y la maldad.
-	- En las páginas del libro centrales, encuentra una hoja de pergamino doblada, Al abrirla hay un glosario de términos goblin - común
-	- Órdenes como "ALTO", "ATACAD"...
+**Los libros:**
+- Un volumen de poesía erótica bastante explícita e ilustrada a mano. Virellia lo guarda sin decir nada.
+- Un almanaque naval detallado con los horarios de las mareas de la costa de Saltmarsh. Las anotaciones recientes en los márgenes son sobre los ciclos de luna nueva.
+- Un denso tratado teológico sobre el culto a **Iuz**, el semidiós del engaño y la maldad. Entre las páginas centrales hay una hoja de pergamino doblada con un glosario de términos goblin-común. Órdenes como "ALTO", "ATACAD".
 
-Genya está mirando la mesa y descubre un sútil resorte y se abre un compartimento secreto. Encuentro un libro encuadernado en piel negra y una caja de madera. Hay muchos conjuros!!!
-En la caja hay 12 velas, pedernal, otro trozo de pergamino: Una lista directa de instrucciones marítimas. Sistema de comunicación marítima con destellos de luz con esa linterna de la mesa.
+Genya descubre un sutil resorte en la mesa que abre un compartimento secreto: un libro encuadernado en piel negra lleno de conjuros, y una caja de madera con 12 velas, pedernal, y otro pergamino con un sistema de comunicación marítima mediante destellos de luz.
+
+**El sistema de señales:**
+- Señal del barco: largo-corto-corto-corto. ¿Es seguro acercarse?
+- Respuesta desde tierra: corto-largo-corto-largo. Todo seguro. Vía libre.
+- Confirmación del barco: largo-largo-largo. Listos para descargar. Venid al barco en los botes.
+
 ![Pasted image 20260518222559.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518222559.png)
+### El muro giratorio
 
-- **Señal del barco:** Largo-corto-corto-corto - ¿Es seguro acercarse?
-- **Respuesta desde Tierra:** Corto-largo-corto-largo - Todo seguro. Vía libre.
-- **Confirmación del Barco:** Largo-largo-largo - Listos para descargar. Venid al barco en los botes.
+Investigando la bodega, el polvo no se acumula igual en toda la habitación. Hay algo que se arrastra frecuentemente por una zona concreta. Encuentran el muro giratorio: al empujarlo, entra una ráfaga de aire frío con olor a sal y se escucha el eco rítmico de olas golpeando contra la roca. Unas escaleras descienden unos 35 pies.
 
-Investigamos la bodega antes de movernos. Encontramos que el polvo no se acumula igual en todas la habitación. Hay algo que frecuentemente se arrastra por encima.
-Encontramos el muro giratorio, que deja entrar una ráfaga de aire frío con olor a sal que desciende. El eco rítmico de olas golpeando contra la roca.
+Abajo hay una caverna que se ensancha. El túnel principal va hacia el este. Uno más ancho hacia el sur revela varios humanos sentados hablando.
 
-![Pasted image 20260518223921.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518223921.png)
+Virellia escucha risas que no son agradables. Voces de borracho. Dos o tres tonos que discuten sobre el trabajo.
 
-¡¡Bajamos!!
-Solo escuchamos las olas romper. Al continuar descendiendo con cuidado unos 35 pies. Hay una caverna que se ensancha mucho más grande.
-El principal avanza hacia el este. Uno más ancho hacia el sur, revelando a varios humanos sentados, hablando de sus cosas.
+Una figura los ve. Grita. Saca una flecha.
 
-![Pasted image 20260518224933.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260518224933.png)
+---
 
-Virellia escucha risa que no son agradables. Voces de borracho por abajo.
-Distinguimos tonos de voz. Dos o tres barones que discuten sobre el curro.
+## Información clave
 
-Se acerca una figura. Que grita y saca una flecha.
+- El enano de la Casa Thunderstrike en la Cabra de Mimbre es significativo. Lankus lo reconoció y sacó a Arkos por la puerta de atrás.
+- El libro de conjuros y el almanaque naval son de gran valor.
+- El sistema de señales de la linterna confirma el uso de la mansión como base de contrabando.
+- El blasón de la Alianza de Keoland: alguien con historia militar relevante usa esta habitación.
+- Caverna marina debajo de la mansión con contrabandistas activos.
 
-**¡¡Empezamos pelea!!**
+---
+[[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP002 - 20260511 - La mansión del alquimista\|<- Anterior]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP004 - 20260525 - Por los pelos\|Siguiente ->]]

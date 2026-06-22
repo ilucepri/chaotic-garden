@@ -10,60 +10,76 @@
 
 ---
 
-> [!Resumen] Resumen
-> Comenzamos nuestra pelea contra los guardias de la cueva. Matamos a todos menos a uno, que al encontrarse solito, se rindió. Su nombre es John y cuando Genya y Virellia empiezan el juego de poli malo y poli buena, les cuenta que el líder contrabandista se llama Sanbalet, y es muy escurridizo, peculiar, esconde su rostro y parece que hace algún tipo de magia con ilusiones.
-> También nos cuenta que en la habitación donde pone PELIGRO hay cadáveres levantados. Y que sabía del hombre que estaba en la bodega, pero que no sabía nada de los niños.
-> Resulta que no estamos solos en la cueva y nos acabamos enfrentando con guardia más directa de Sanbalet. Humanos y Hobgoblins, mientras el jefe abandona la cueva por una barca que había en uno de los túneles del sur. Tenemos una encarnizada lucha en la que Virellia cae y es salvada por Lodd.
-> Al final conseguimos que muchos se rinda y el resto son asesinados.
-> Uno de ellos intenta suicidarse pero Genya se lo impide. Y terminamos atándolos y quitándoles las armas para poder por fin descansar.
->
+*Comenzamos nuestra pelea contra los guardias de la cueva. Matamos a todos menos a uno, que al encontrarse solito, se rindió. Su nombre es John y cuando Genya y Virellia empiezan el juego de poli malo y poli buena, les cuenta que el líder contrabandista se llama Sanbalet, y es muy escurridizo, peculiar, esconde su rostro y parece que hace algún tipo de magia con ilusiones. También nos cuenta que en la habitación donde pone PELIGRO hay cadáveres levantados. Y que sabía del hombre que estaba en la bodega, pero que no sabía nada de los niños. Resulta que no estamos solos en la cueva y nos acabamos enfrentando con la guardia más directa de Sanbalet. Humanos y hobgoblins, mientras el jefe abandona la cueva por una barca que había en uno de los túneles del sur. Tenemos una encarnizada lucha en la que Virellia cae y es salvada por Lodd. Al final conseguimos que muchos se rindan y el resto son asesinados. Uno de ellos intenta suicidarse pero Genya se lo impide. Y terminamos atándolos y quitándoles las armas para poder por fin descansar.*
 
-Empezamos la pelea contra los guardias!!
-Genya empieza el combate a señal de Arkos. Virellia se carga a uno de ellos con 3 misiles arcanos bien tirados.
-Genya se carga a otro con una buena carga. 
+---
+## Túneles debajo de la mansión
+### **COMBATE — Los guardas de la cueva**
 
-![Pasted image 20260525211926.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260525211926.png)
+Genya inicia el combate a señal de Arkos. Virellia se carga a uno con tres misiles arcanos bien tirados. Genya derriba a otro con una buena carga.
 
-Lodd intenta intimidar al que queda vivo. El contrabandista termina tirando las armas.
-Dravok le quita las armas al tío
+Lodd intimida al que queda vivo. El contrabandista termina tirando las armas. Se llama **John**. Dravok le quita las armas.
 
-El líder de los contrabandistas es Sanbalet. Es un contrabandista que se encarga de hacer trueques entre diferentes grupos criminales. Siempre se escabulle y hace tratos. La guardia nunca da con él.
-Nos describe cómo es: Peculiar, alto, siempre lleva la cara media tapada, es atractivo, lleva ropas muy holgadas de prenda única. No le ha visto arma. Siempre va con su bastón. Habla de sí mismo en tercera persona. El muchacho se llama John.
-El hombre este parece que hace imágenes en el aire. 
+### Interrogatorio
 
-John lleva dos meses en esta operación y se encarga de que nadie entre que no sea del grupo. La mercancía son joyas, lino, herramientas. Él no se encargaba de la linterna. Marty era el que se encargaba de eso. Nunca ha ido a la entrega.
+Genya y Virellia hacen el juego de poli malo y poli buena. John habla.
 
-Pasan un par de veces al mes. Se hacen con cada luna llena y nueva. La luna está casi llena. Si no es mañana, pasado. 
-Abajo también se encuentra Sanbalet y su guardia. Tiene 4 bichos que le acompañan y hablan un idioma extraño, rojos y con colmillos. 5 o 6 humanos. 
+**Sanbalet**, el líder contrabandista:
+- Se encarga de hacer trueques entre diferentes grupos criminales.
+- Siempre se escabulle y hace tratos. La guardia nunca da con él.
+- Alto, siempre lleva la cara media tapada, atractivo, ropas muy holgadas de prenda única.
+- No le ha visto arma. Siempre va con su bastón.
+- Habla de sí mismo en tercera persona.
+- Parece que hace imágenes en el aire, ilusiones.
 
-John sabe sobre el cuerpo dela bodega. Dice que sorprendió a la gente y el resto le atacó.
-Arkos encuentra un pequeño mapa de la caverna con marcas. 
+John lleva dos meses en esta operación. Se encarga de que nadie entre que no sea del grupo. La mercancía son joyas, lino, herramientas. Él no se encargaba de la linterna. Eso era cosa de Marty. Nunca ha ido a la entrega.
 
-Nos dice que en la habitación en la que pone PELIGRO hay cadáveres levantados. Eran cuatro, solo salieron 3.
+Los envíos pasan un par de veces al mes, en luna llena y luna nueva. La luna está casi llena. Si no es mañana, pasado.
 
-Una caja de madera se cae y hace mucho ruído
+Abajo también se encuentra Sanbalet y su guardia directa: cuatro bichos que hablan un idioma extraño, rojos y con colmillos (hobgoblins), y cinco o seis humanos.
 
-*"Estúpido!!! esta caja es muy cara!! Ve arriba y trae otra!!!"*
+John sabe del cuerpo de la bodega. Dice que sorprendió a la gente y el resto le atacó. No sabía nada de los niños.
 
-Se acerca uno de los tíos y ve sangre y trozos de cadáver de uno de los muertos. Empieza a irse hacia atrás y cuando desaprece, empieza a gritar para avisar a sus compañeros. 
+En la habitación con el cartel de "PELIGRO" hay cadáveres levantados. Eran cuatro, solo salieron tres.
 
-![Pasted image 20260525220906.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Pasted%20image%2020260525220906.png)
+Arkos encuentra entre las cosas de los contrabandistas un pequeño mapa de la caverna con marcas.
 
-El hobgoblin líder saca un arco largo y empieza a apuntar a Genya. Otro de los contrabandistas dispara a Arkos y falla. 
+### **COMBATE — La guardia de Sanbalet**
 
-Virellia cae y gracias a dios Lodd le cura!!
-Genya mata al líder hobglobin clavándole el tridente. 
+Una caja de madera se cae haciendo mucho ruido. Una voz desde abajo:
 
-Uno de ellos escapa por debajo avisando al resto y al jefe, saltando de tablón en tablón.
-Dravok va detrás de él sin darse cuenta de que el chico está saltando estratégicamente. Se queda encajado en medio de dos esteras.
+*"Estúpido! Esta caja es muy cara! Ve arriba y trae otra!"*
 
-Escucha una voz que no conocemos. Dice que él se ocupa, que huya el barco.
-Una voz gutural emana del túnel, otro hobglobin, pero se va corriendo por el túnel contrario.
+Un hombre sube, ve la sangre y los trozos de cadáver y empieza a retroceder. Cuando desaparece de la vista empieza a gritar para avisar.
 
-Parece que una barca ha abandonado su punto de anclaje en una de las salidas de la cueva, y el hombre que estaba avisando grita de pena porque le están abandonando.
-Por fin, la muchacha del arco se rinde.
+El hobgoblin líder saca un arco largo y apunta a Genya. Otro dispara a Arkos y falla. La batalla se vuelve caótica en la caverna con los tablones sobre el agua.
 
-Cuando Genya va alcanzar al tío que estaba llorando, se intenta clavarla daga en el cuello, pero el dracónido es más rápido.
-Atamos a todos los contrabandistas y por fin podemos descansar un poco. 
+Virellia cae. Lodd la cura justo a tiempo.
+
+Desde el fondo se escucha la voz de Sanbalet dando órdenes para que el barco huya. Una barca abandona su anclaje en uno de los túneles del sur. El hombre que lo anunciaba llora porque le están abandonando.
+
+Dravok persigue a un contrabandista que salta de tablón en tablón estratégicamente y se queda encajado en medio de dos esteras.
+
+Genya mata al líder hobgoblin clavándole el tridente.
+
+Al final, varios se rinden. Cuando Genya va a alcanzar al que lloraba junto al agua, el hombre intenta clavarse su propia daga en el cuello. Genya es más rápida y se lo impide.
+
+El grupo ata a todos los contrabandistas, les quita las armas y por fin puede descansar.
+
+> [!NOTE]
+> Sanbalet ha escapado en barca. El barco contrabandista llega en luna llena o nueva. La siguiente está muy cerca.
 
 **¡SUBIMOS A NIVEL 2, WIIIII!**
+
+---
+
+## Información clave
+
+- **Sanbalet:** alto, cara tapada, bastón, habla en tercera persona, hace ilusiones. Ha escapado en barca por los túneles del sur.
+- **El Fantasma del Mar:** el barco contrabandista. Llega en luna llena y nueva. La siguiente es inminente.
+- La habitación de "PELIGRO" tiene cuatro no-muertos (salieron tres, queda uno dentro).
+- John es el único prisionero que ha dado información útil de forma voluntaria. El resto están atados.
+- Mapa de la caverna con marcas obtenido entre las pertenencias.
+
+---
+[[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP003 - 20260518 - Ciempiés y túneles\|<- Anterior]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP005 - 20260601 - Explorando los túneles\|Siguiente ->]]
