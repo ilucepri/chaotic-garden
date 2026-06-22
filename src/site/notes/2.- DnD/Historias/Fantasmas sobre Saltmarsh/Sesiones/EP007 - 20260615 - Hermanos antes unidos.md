@@ -40,7 +40,7 @@ Se sube a la mesa porque se cree guay
 
 **Zera, la Tejedora de Sombras**
 ![zera - tejedora de niebla.png|344](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/zera%20-%20tejedora%20de%20niebla.png)
-No emite nada bueno (pero mola mil)
+No emite nada bueno (pero mola mil). Tiene una máscara. tapada hasta los topes. Tiene acento estepario.
 
 **Kora Dedos Sueltos**
 ![Kora dedos sueltos.png|351](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/Kora%20dedos%20sueltos.png) 
@@ -110,6 +110,11 @@ Barnabás, temblando, empieza a limpiar.
 
 > [!NOTE]
 > Antes de que llegara el grupo, Brak-Thar preguntó a Barnabás por Sanbalet. La mujer de la máscara (Zera) dijo rápidamente que no sabían nada. Luego preguntó por Dravok. Justo antes de que Barnabás pudiera responder, el grupo entró por la puerta.
+
+### El pasado de Brak-Thar
+
+Dravok nos cuenta que hace años, mientras navegaba, su capitán encontró a Brak-Thar, un niño náufrago. Lo trató como un hermano menor aunque no compartieran sangre.
+A pesar de que Brak-Thar intentó siempre seguir los pasos de Dravok, siempre se quedaba atrás y optaba por usar trampas, sabotaje, engaños...hasta que Balgron, el capitán, tuvo que expulsarlo cuando lo descubrieron saboteando el aparejo de un barco para facilitar el abordaje.
 
 ## Los Lores del Mar
 
