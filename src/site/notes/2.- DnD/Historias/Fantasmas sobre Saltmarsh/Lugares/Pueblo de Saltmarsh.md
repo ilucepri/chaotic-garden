@@ -67,6 +67,8 @@ En el Consejo, Gellan suele votar con los Conservadores (Eda)
 - Viste siempre a la última moda de Niole Dra: casacas de seda azul marino, bordados de hilo de oro...
 - Casi siempre se le ve con una copa de vino en una mano o apoyado en un elegante bastón de empuñadura de plata.
 
+Fue asesinado por el grupo de Brak-Thar y ahora Philip ha cogido su lugar en el consejo.
+
 **Objetivos** 
 - A corto plazo: Desconocido
 - A largo plazo: Desconocido
