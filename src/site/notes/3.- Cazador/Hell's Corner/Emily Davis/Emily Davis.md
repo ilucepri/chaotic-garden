@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/emily-davis/emily-davis/"}
+{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/emily-davis/emily-davis/","noteIcon":""}
 ---
 
 ### Concepto:

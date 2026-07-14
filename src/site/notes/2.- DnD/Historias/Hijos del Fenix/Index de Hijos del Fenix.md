@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/hijos-del-fenix/index-de-hijos-del-fenix/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/hijos-del-fenix/index-de-hijos-del-fenix/","noteIcon":""}
 ---
 
 #rol #dnd #LosHijosDelFenix #dnd/session

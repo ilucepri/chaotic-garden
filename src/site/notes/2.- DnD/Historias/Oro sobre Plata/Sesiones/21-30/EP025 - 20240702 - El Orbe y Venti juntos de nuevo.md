@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-025-20240702-el-orbe-y-venti-juntos-de-nuevo/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-025-20240702-el-orbe-y-venti-juntos-de-nuevo/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

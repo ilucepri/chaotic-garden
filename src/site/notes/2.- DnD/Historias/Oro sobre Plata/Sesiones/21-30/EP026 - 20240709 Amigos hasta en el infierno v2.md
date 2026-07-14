@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-026-20240709-amigos-hasta-en-el-infierno-v2/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-026-20240709-amigos-hasta-en-el-infierno-v2/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

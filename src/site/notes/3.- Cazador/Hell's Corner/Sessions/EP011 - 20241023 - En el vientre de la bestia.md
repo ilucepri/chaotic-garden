@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/sessions/ep-011-20241023-en-el-vientre-de-la-bestia/"}
+{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/sessions/ep-011-20241023-en-el-vientre-de-la-bestia/","noteIcon":""}
 ---
 
 #rol #cazador #cazador/sesiones #HellsCorner

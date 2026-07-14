@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-006-20231212-vuelta-a-la-civilizacion/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-006-20231212-vuelta-a-la-civilizacion/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-022-20240604-llegamos-a-orlbar/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-022-20240604-llegamos-a-orlbar/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

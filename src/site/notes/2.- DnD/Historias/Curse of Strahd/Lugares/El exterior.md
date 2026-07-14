@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/lugares/el-exterior/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/lugares/el-exterior/","noteIcon":""}
 ---
 
 # El exterior

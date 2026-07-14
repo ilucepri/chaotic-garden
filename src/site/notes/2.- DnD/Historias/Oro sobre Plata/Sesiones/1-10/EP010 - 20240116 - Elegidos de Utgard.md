@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-010-20240116-elegidos-de-utgard/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-010-20240116-elegidos-de-utgard/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

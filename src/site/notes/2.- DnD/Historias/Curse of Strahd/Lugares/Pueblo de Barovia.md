@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/lugares/pueblo-de-barovia/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/lugares/pueblo-de-barovia/","noteIcon":""}
 ---
 
 # Pueblo de Barovia

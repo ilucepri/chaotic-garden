@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-007-20231219-paseos-por-el-mercado-oscuro/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-007-20231219-paseos-por-el-mercado-oscuro/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

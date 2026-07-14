@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/lugares/cienaga-de-hool/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/lugares/cienaga-de-hool/","noteIcon":""}
 ---
 
 # Ciénaga de Hool

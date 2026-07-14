@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/index-de-oro-sobre-plata/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/index-de-oro-sobre-plata/","noteIcon":""}
 ---
 
 # Index de Oro Sobre Plata
@@ -11,10 +11,10 @@
 
 ## La Compañía del Oso
 [[Leia\|Leia]]
-[[2.- DnD/Historias/Oro sobre Plata/Personajes/La compañía del Oso/Janzu\|Janzu]]
+[[Janzu\|Janzu]]
 [[Drakhan\|Drakhan]]
 [[Agáricus\|Agáricus]]
-[[2.- DnD/Historias/Oro sobre Plata/Personajes/La compañía del Oso/ALFRED\|ALFRED]]
+[[2.- DnD/Historias/Oro sobre Plata/Lore/La compañía del Oso/ALFRED\|ALFRED]]
 [[Venti Fortunati.canvas|Venti Fortunati]]
 
 ## Sesiones
@@ -106,3 +106,5 @@
 - [[2.- DnD/Historias/Oro sobre Plata/Sesiones/81-90/EP087 - 20260519\|EP087 - 20260519]]
 - [[2.- DnD/Historias/Oro sobre Plata/Sesiones/81-90/EP088 - 20260602\|EP088 - 20260602]]
 - [[2.- DnD/Historias/Oro sobre Plata/Sesiones/81-90/EP089 - 20260609\|EP089 - 20260609]]
+- [[2.- DnD/Historias/Oro sobre Plata/Sesiones/81-90/EP090 - 20260623\|EP090 - 20260623]]
+- [[2.- DnD/Historias/Oro sobre Plata/Sesiones/EP091 - 20260707\|EP091 - 20260707]]

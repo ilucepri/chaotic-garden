@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-005-20231205-el-orbe-y-el-ilicido/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-005-20231205-el-orbe-y-el-ilicido/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 
@@ -23,4 +23,4 @@ Aparece un 1/3 de orbe roto. Tiene un dragón enroscado y da la sensación de qu
 Drakhan coge el orbe!! después de descansar todos gracias a Vinjarak
 No nos pueden robar el fragmento. SI se separa de él se muere
 Los dragones metálicos pueden unirse a nuestra causa
-DragonNerd - Sergrin
+DragonNerd - Yergrim

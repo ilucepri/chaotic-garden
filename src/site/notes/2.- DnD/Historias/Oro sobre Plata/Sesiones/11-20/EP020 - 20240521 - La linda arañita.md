@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-020-20240521-la-linda-aranita/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-020-20240521-la-linda-aranita/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

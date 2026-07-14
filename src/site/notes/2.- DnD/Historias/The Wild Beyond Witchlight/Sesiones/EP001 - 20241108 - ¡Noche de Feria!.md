@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-001-20241108-noche-de-feria/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-001-20241108-noche-de-feria/","noteIcon":""}
 ---
 
 #rol #dnd #LasTierrasMasAllaDeBrujaluz #dnd/session

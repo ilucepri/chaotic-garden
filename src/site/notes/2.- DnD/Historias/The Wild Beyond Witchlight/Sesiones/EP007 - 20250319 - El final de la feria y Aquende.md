@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-007-20250319-el-final-de-la-feria-y-aquende/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-007-20250319-el-final-de-la-feria-y-aquende/","noteIcon":""}
 ---
 
 # EP007 - 20250319 - El final de la feria y Aquende

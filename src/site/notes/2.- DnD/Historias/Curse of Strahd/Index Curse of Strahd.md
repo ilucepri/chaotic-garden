@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/index-curse-of-strahd/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/index-curse-of-strahd/","noteIcon":""}
 ---
 
 # Index de La Maldición de Strahd

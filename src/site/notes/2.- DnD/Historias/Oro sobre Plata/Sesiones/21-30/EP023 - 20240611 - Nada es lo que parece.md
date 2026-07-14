@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-023-20240611-nada-es-lo-que-parece/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-023-20240611-nada-es-lo-que-parece/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

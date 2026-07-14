@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-013-20240213-en-el-underdark/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-013-20240213-en-el-underdark/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

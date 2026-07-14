@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/sessions/ep-012-20241030-viejos-conocidos/"}
+{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/sessions/ep-012-20241030-viejos-conocidos/","noteIcon":""}
 ---
 
 #rol #cazador #cazador/sesiones #HellsCorner

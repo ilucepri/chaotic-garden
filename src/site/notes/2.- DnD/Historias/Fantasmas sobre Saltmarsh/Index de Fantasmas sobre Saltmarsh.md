@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/index-de-fantasmas-sobre-saltmarsh/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/index-de-fantasmas-sobre-saltmarsh/","noteIcon":""}
 ---
 
 # Índice

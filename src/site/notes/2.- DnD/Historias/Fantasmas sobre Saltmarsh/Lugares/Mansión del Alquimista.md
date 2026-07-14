@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/lugares/mansion-del-alquimista/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/lugares/mansion-del-alquimista/","noteIcon":""}
 ---
 
 # Mansión del Alquimista

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/guardalumbre/sesiones/ep-01-20260516-la-sabia-perdida/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/guardalumbre/sesiones/ep-01-20260516-la-sabia-perdida/","noteIcon":""}
 ---
 
 #rol #dnd #MisteriosDeGuardalumbre #dnd/session

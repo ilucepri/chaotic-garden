@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-024-20240618-tuneles-ilicidos-y-el-ikea-de-carne/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-024-20240618-tuneles-ilicidos-y-el-ikea-de-carne/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

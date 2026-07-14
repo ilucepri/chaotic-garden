@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-003-20241127-la-gran-extravaganza/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-003-20241127-la-gran-extravaganza/","noteIcon":""}
 ---
 
 #rol #dnd #LasTierrasMasAllaDeBrujaluz #dnd/session

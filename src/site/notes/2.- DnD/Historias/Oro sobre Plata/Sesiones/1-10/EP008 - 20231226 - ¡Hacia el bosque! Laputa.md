@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-008-20231226-hacia-el-bosque-laputa/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-008-20231226-hacia-el-bosque-laputa/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

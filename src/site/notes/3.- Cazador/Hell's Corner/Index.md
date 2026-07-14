@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/index/"}
+{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/index/","noteIcon":""}
 ---
 
 ### Célula

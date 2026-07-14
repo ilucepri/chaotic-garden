@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-call-of-cthulhu/horror-cosmico/la-bailarina-rota/index-de-la-bailarina-rota/"}
+{"dg-publish":true,"permalink":"/1-call-of-cthulhu/horror-cosmico/la-bailarina-rota/index-de-la-bailarina-rota/","noteIcon":""}
 ---
 
 ## Sesiones

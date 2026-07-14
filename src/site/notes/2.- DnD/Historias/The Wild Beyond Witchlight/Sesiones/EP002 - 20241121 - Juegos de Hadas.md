@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-002-20241121-juegos-de-hadas/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-002-20241121-juegos-de-hadas/","noteIcon":""}
 ---
 
 #rol #dnd #LasTierrasMasAllaDeBrujaluz #dnd/session

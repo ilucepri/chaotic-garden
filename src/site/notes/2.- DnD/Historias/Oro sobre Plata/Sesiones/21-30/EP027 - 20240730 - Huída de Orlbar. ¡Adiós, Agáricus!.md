@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-027-20240730-huida-de-orlbar-adios-agaricus/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-027-20240730-huida-de-orlbar-adios-agaricus/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

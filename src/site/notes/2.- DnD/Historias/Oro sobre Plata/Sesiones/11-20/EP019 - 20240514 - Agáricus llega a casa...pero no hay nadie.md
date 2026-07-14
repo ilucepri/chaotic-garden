@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-019-20240514-agaricus-llega-a-casa-pero-no-hay-nadie/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-019-20240514-agaricus-llega-a-casa-pero-no-hay-nadie/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

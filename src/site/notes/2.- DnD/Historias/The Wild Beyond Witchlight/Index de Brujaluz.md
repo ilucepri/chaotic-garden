@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/index-de-brujaluz/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/index-de-brujaluz/","noteIcon":""}
 ---
 
 # Index de Las Tierras más allá de Brujaluz

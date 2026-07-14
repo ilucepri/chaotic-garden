@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-011-20240123-el-portal-de-los-chamanes/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-011-20240123-el-portal-de-los-chamanes/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

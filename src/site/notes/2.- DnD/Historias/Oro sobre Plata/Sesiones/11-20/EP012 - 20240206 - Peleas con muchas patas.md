@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-012-20240206-peleas-con-muchas-patas/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-012-20240206-peleas-con-muchas-patas/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

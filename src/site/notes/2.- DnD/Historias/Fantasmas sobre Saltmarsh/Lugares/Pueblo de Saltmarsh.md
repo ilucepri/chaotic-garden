@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/lugares/pueblo-de-saltmarsh/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/fantasmas-sobre-saltmarsh/lugares/pueblo-de-saltmarsh/","noteIcon":""}
 ---
 
 # Pueblo de Saltmarsh

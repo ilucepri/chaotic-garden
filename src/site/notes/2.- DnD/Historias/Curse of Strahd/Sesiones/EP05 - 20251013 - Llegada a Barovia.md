@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/sesiones/ep-05-20251013-llegada-a-barovia/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/sesiones/ep-05-20251013-llegada-a-barovia/","noteIcon":""}
 ---
 
 # EP05 - 20251013 - Llegada a Barovia

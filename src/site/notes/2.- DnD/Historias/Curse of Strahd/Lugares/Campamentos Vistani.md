@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/lugares/campamentos-vistani/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/lugares/campamentos-vistani/","noteIcon":""}
 ---
 
 # Campamentos Vistani

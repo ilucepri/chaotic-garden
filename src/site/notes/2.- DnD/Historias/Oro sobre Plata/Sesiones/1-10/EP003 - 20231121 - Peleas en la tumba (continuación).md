@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-003-20231121-peleas-en-la-tumba-continuacion/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-003-20231121-peleas-en-la-tumba-continuacion/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session

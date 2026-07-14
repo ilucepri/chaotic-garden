@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-018-20240507-las-extranas-huellas-de-pelea/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-018-20240507-las-extranas-huellas-de-pelea/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session 

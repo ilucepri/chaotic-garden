@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-004-20231128-el-puzzle-de-helm/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/1-10/ep-004-20231128-el-puzzle-de-helm/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session

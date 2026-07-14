@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-028-20240910-la-mision-de-jarlaxle/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-028-20240910-la-mision-de-jarlaxle/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session

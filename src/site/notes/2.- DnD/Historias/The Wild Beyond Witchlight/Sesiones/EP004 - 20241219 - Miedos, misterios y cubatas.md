@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-004-20241219-miedos-misterios-y-cubatas/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/the-wild-beyond-witchlight/sesiones/ep-004-20241219-miedos-misterios-y-cubatas/","noteIcon":""}
 ---
 
 #rol #dnd #LasTierrasMasAllaDeBrujaluz #dnd/session

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/guardalumbre/index-de-misterios-de-guardalumbre/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/guardalumbre/index-de-misterios-de-guardalumbre/","noteIcon":""}
 ---
 
 # La Party

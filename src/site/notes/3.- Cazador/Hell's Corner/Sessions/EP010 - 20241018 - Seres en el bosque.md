@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/sessions/ep-010-20241018-seres-en-el-bosque/"}
+{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/sessions/ep-010-20241018-seres-en-el-bosque/","noteIcon":""}
 ---
 
 #rol #cazador #cazador/sesiones #HellsCorner

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-017-20240416-los-caminos-de-la-izquierda/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/11-20/ep-017-20240416-los-caminos-de-la-izquierda/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session

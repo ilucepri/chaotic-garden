@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/sessions/ep-009-20241002-vuelta-a-hell-s-corner/"}
+{"dg-publish":true,"permalink":"/3-cazador/hell-s-corner/sessions/ep-009-20241002-vuelta-a-hell-s-corner/","noteIcon":""}
 ---
 
 #rol #cazador #cazador/sesiones #HellsCorner

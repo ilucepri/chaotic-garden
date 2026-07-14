@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/sesiones/ep-04-20251009-fin-de-la-mansion/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/curse-of-strahd/sesiones/ep-04-20251009-fin-de-la-mansion/","noteIcon":""}
 ---
 
 # EP04 - 20251009 - Fin de la mansión

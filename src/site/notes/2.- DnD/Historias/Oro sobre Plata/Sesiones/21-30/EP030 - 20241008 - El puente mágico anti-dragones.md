@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-030-20241008-el-puente-magico-anti-dragones/"}
+{"dg-publish":true,"permalink":"/2-dn-d/historias/oro-sobre-plata/sesiones/21-30/ep-030-20241008-el-puente-magico-anti-dragones/","noteIcon":""}
 ---
 
 #rol #dnd #OroSobrePlata #dnd/session
@@ -7,22 +7,22 @@
 [[2.- DnD/Historias/Oro sobre Plata/Index de Oro Sobre Plata\|← Volver al Index]]
 
 ---
-### [[2.- DnD/Historias/Oro sobre Plata/Lugares/Sierpesterio\|Sierpesterio]]
+### [[2.- DnD/Historias/Oro sobre Plata/Lore/Lugares y NPCs/Lunargentea#Sierpesterio (Serpesterio)\|Sierpesterio]]
 
-El dueño es [[Yergrin\|Yergrin]]
+El dueño es [[2.- DnD/Historias/Oro sobre Plata/Lore/Lugares y NPCs/Lunargentea#Yergrim\|Yergrim]]
 El pequeño edificio tiene un cartel enorme de un dragón.
 El tamaño exterior es un hechizo y la tienda es mucho más grande.
 Hay muchos trozos de dragón que cuelgan por la tienda.
 
 Hay un par de humanos haciendo cosas por la tienda. Rory y Derdrak
 
-Yergrin es un gnomo con un sombrero de media ala con una pluma. Y un monóculo. También lleva varias decoraciones de dragón.
+Yergrim es un gnomo con un sombrero de media ala con una pluma. Y un monóculo. También lleva varias decoraciones de dragón.
 El monóculo le sirve para ver cosas de magia.
 
 Hay artefactos parecidos a los que le dio al grupo después de hacer una misión.
 El arco de Leia tenía escamas, el estoque de Janzu era verde
 
-Le hablamos de que [[2.- DnD/Historias/Oro sobre Plata/Personajes/Dragones/Ondrur\|Ondrur]] está por el bosque, que es la heredera de la muerte...
+Le hablamos de que [[2.- DnD/Historias/Oro sobre Plata/Lore/Dragones/Ondrur\|Ondrur]] está por el bosque, que es la heredera de la muerte...
 Que todo está agigantado. 
 
 Nos da la información sobre la dragona :
@@ -30,7 +30,7 @@ Es una superviviente de su madre, Chloracridara. Si tiene suerte de heredar esta
 Por el tamaño es adulta, asi que bastante droga...
 Los cromáticos no saben cambiar de forma.
 Les gusta manipular
-Yergrin dice que está en Lunargenta por el Mythal. Que es un gran hechizo que defiende de ataques de dragones. No es la primera vez que hay muchos visiones de dragones en la zona.
+Yergrim dice que está en Lunargenta por el Mythal. Que es un gran hechizo que defiende de ataques de dragones. No es la primera vez que hay muchos visiones de dragones en la zona.
 Hay demasiados avistamientos por ahora.
 
 Janzu y Leia se acuerdan de que los bárbaros ya habían hablado de otras veces que la fauna había crecido.
