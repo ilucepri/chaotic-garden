@@ -70,6 +70,9 @@ Piden comida y dinero. Intercambian carne cruda de aspecto dudoso por raciones d
 - **El gigante de muerte, las ruinas y el oasis** (ver más abajo).
 - Conocen la ubicación de otra balista, muy lejos hacia el noreste, a tres días de camino como mínimo (mucho más rápido yendo con ellos).
 
+> [!WARNING] Traición y final (EP092)
+> Esa misma noche los Verbeeg **traicionaron al grupo**. Lanzaron un área de **silencio** sobre el campamento y asaltaron a la Compañía mientras casi todos dormían, no para matar sino para **robar**: golpes con el lado romo, estrangulamientos y hondas aturdidoras. Mataron a **Sombra** (la familiar de Janzu), dejaron inconsciente a **Agáricus** y robaron la espada de Leia y un objeto que Venti llevaba al pecho. El grupo se rehízo (los ocho lobos de Leia y el *Synaptic Static* de Venti) y **cazó y mató a los seis, Balch incluido**, recuperando todo lo robado. **Mog**, que había pasado la primera guardia jugando a las cartas con Venti, también iba en la emboscada. El grupo se queda sin guías en mitad del desierto.
+
 ### El gigante de muerte
 
 Figura gigantesca y encapuchada, más grande que un gigante de las colinas, que abraza una calavera enorme, va rodeada de figuras espectrales y lleva una guadaña a la espalda: literalmente, "la muerte". El grupo la esquiva de camino cruzando un cuerpo de agua en barca. Según los Verbeeg, es el único de su clase que vive en el desierto, es cruel, y los gigantes de muerte y los dragones se dejan en paz mutuamente porque saben que no merece la pena molestarse.

@@ -61,3 +61,4 @@
 - [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP033 - 20260507\|EP033 - 20260507]]
 - [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP034 - 20260530\|EP034 - 20260530]]
 - [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP035 - 20260615\|EP035 - 20260615]]
+- [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP036 - 20260715\|EP036 - 20260715]]

@@ -66,13 +66,14 @@ Localización: una mujer cuelga sobre una hoguera rojiente. Encontradla y hallar
 Localización: buscad un cubil de lobos en las colinas que dominan un lago alpino. El tesoro pertenece a la Madre Noche. → Según Yevgeni/Strahd: **lago Baratok** y la colina que lo domina, al norte. 
 ⚠️ Fuente sospechosa.
 
-**Carta 3, (arma / espada solar):**
+**Carta 3, La soldado (arma / espada solar):**
 *"Da fuerza y poder. Una espada forjada para consumar una venganza que atesora la luz del sol."*
-Localización: buscad a un hombre relacionado con la música. Un hombre con dos cabezas. Vive en un lugar donde imperan el hambre y el sufrimiento. → Según Yevgeni/Strahd: **Paso de Solenka**, casi un día al sur. Frío extremo, ir abrigados. 
+Localización: Id a las montañas. Escalad la torre blanca que guardan caballeros de oro. → Según Yevgeni/Strahd: **Paso de Tsolenka**, casi un día al sur. Frío extremo, ir abrigados. 
 ⚠️ Fuente sospechosa.
 
-**Carta 4, (aliado):**
+**Carta 4, La Marioneta (aliado):**
 *"Arroja luz sobre uno que os ayudará generosamente en vuestra batalla contra la oscuridad."*
+Buscad a un hombre relacionado con la música, un hombre con dos cabezas. Vive en un lugar donde imperan el hambre y el sufrimiento.
 Localización: pendiente.
 
 **Carta 5, El Señor de la Noche (Strahd):**

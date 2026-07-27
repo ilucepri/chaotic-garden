@@ -17,3 +17,4 @@ Aquí tendré un Index para los roles que tengo ahora mismo en vivo, que como po
 [[1.- Call of Cthulhu/Horror Cósmico/La bailarina rota/Index de La Bailarina Rota\|La Bailarina Rota]] - Call of Cthulhu
 [[1.- Call of Cthulhu/Horror Cósmico/Harapos del Rey/Index de Harapos del Rey\|Harapos del Rey]] - Call of Cthulhu 7e
 [[3.- Cazador/Hell's Corner/Index\|Hell's Corner]] - Cazador 5e
+

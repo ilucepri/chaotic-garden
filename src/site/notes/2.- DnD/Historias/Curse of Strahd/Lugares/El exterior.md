@@ -54,6 +54,7 @@ Al sur del Mago de los Vinos. Según Yevgeni/Strahd, aquí hay un aquelarre de d
 
 ### Krezk
 Ciudad al noroeste. Se rumorea que es más segura que Vallaki, muros de verdad, no solo empalizada. El padre Lucian recomendó a Ireena que fuera allí a largo plazo. Adonde nos dirigíamos cuando Strahd nos emboscó en EP16.
+Santa Markovia.
 
 ### Rio Ivlis y las cataratas del norte del lago Zarovich
 Por aquí cayó el mago que intentó la revolución contra Strahd. El cuerpo nunca fue recuperado.
