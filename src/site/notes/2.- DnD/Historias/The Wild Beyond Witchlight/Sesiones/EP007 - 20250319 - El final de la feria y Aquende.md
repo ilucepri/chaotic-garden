@@ -89,6 +89,8 @@ El grupo cruza.
 
 ## Prismalia — Aquende
 
+![Pasted image 20250319225553.png](/img/user/2.-%20DnD/Historias/The%20Wild%20Beyond%20Witchlight/Docs/Pasted%20image%2020250319225553.png)
+
 Ligero nivel a ozono. Aterrizan sobre manos y rodillas. La poca luz apenas permite ver. Parece que está amaneciendo. Al levantarse se marean un poco y se sienten más ligeros.
 
 Están en el borde de una carretera de piedras blanquecinas, con pilares de varios metros de altura. Debajo de la carretera hay un pantano.
@@ -116,98 +118,19 @@ Sus palabras son honestas, pero obviamente piden el paso del puente. Se saca una
 - **Luli es la Monarca de Brujaluz.** Encanto del Monarca: 3 usos, 1 hora de alas de mariposa + vuelo 30 pies + +5 a Carisma.
 - Prismalia está controlada actualmente por Bavlorna Brindamarchita.
 - La misión: encontrar a la alicornio y liberar a la reina dormida (Zybilna).
-- Bruja y Luz no pueden hablar de todo lo que saben. El embrujo actúa sobre ellos físicamente.
+- Bruja y Luz no pueden hablar de todo lo que saben. El embrujo actúa sobre ellos físicamente. Aprendemos lore sobre ellos :3
+	- Luz era un noble de una ciudad importante del umbro.
+	- Bruja era el hijo de unos sirvientes de Luz
+	- Luz estaba muy solo siempre y Bruja era el único que se acercaba.
+	- Para medrar en la sociedad shadark-kai tienes que ser un sanguinario hijo de puta, inflingir dolor y miedo. Bruja le enseñó que no era el único camino.
 - **Ellywick** es su benefactora. Conoce más de lo que dice.
 - Las emociones se amplifican en Prismalia. Dato importante para roleplay.
 
 ---
-*Notas de sesión originales:*
-
-El cometa va poco a poco posándose en todos hasta llegar a Luli. El público está enmudecido.
-Patacandela le ofrece una mano para subir.
-
-Incluso Bruja exhala.
-Una docena de mariposas tira de una fina corona dorada.
-
-El sr.Luz toca ambos hombros 
-
-LULI CANTA WHAT DA FUCK!!!!!!!!
-
-Tanto Bruja como Luz tienen los ojos vidriosos.
-
-De los trabajadores de la feria y él mismo querían darle las gracias. Viene Patacandela, Palasha, Septentrión, Bermeja, al Sr.Sazón, Dirlagraun, Jeremy el pixy, Galleta dándole el coñazo a Plumilla, Diana, Nominem, los goblins con los que luchó Tharad, Calliope y Ernest...
-
-En nuestra cabeza escuchamos una voz "Buena suerte, héroes"
-
-"Tan solo seguir el sonido del organillo"
-
-Cuando estamos cerca de la salida, una mano agarra a Triss. Ellywick.
-
-Cuando salimos, están cerrando puestos. 
-Bruja y Luz están mirando a las carpas, mirada ensoñecida.
-
-"Veréis....es que Bruja al fin y al cabo...lleva toda la vida perdidamente enamorado de mi. Y la verdad es que para mi es la persona que yo más quiero en el mundo. Y algunos somos de alma voluble. "
-
-Prismalia es la casa de la señora de esta casa, Zybilna.
-
-Nos guían a través de los espejos. Podemos ver a Bruja y Luz más peques. Bruja es un sirviente y Luz de ricos. 
-Llegamos a un espejo sin nada en especial. 
-
-Todo lo que buscamos y más, se halla
-"Aquende, Allendé, acá y acullá; estas palabritas, ¿dónde me llevarán?"
-
-
-Es un viaje de ida, no conocen la forma de volver de Prismalia. 
-Ambos cogen de los brazos a Luli "Presente, pasado y futuro"
-"Encuentra a la alicornio y libera a la reina dormida"
-Un torrente de sabia parece salir de su boca.
-
-# Prismalia
-
-Ligero nivel a ozono.
-Aterrizamos sobre nuestras manos y rodillas. La poca luz apenas nos permite ver cosas. Parece que está amaneciendo. Al levantarnos nos mareamos un poco y nos sentimos más ligeros. 
-
-Estamos en el borde de una carretera de piedras blanquecinas. 
-Pilares de varios metros de altura. 
-
-## Aquende
-
-![Pasted image 20250319225553.png](/img/user/2.-%20DnD/Historias/The%20Wild%20Beyond%20Witchlight/Docs/Pasted%20image%2020250319225553.png)
-
-Hay un pantano debajo de la carretera.
-
-Las emociones están muy amplificadas. 
-
-Globo aerostático enorme que cae al pantano descontroladamente.
-
-Llegamos al suelo.
-
-### Pantano
-
-Todo lleno de niebla.
-Escuchamos unos cánticos en la lejanía. 
-Nos acercamos con sigilo pero seguimos avanzando. Hay una compañía de lebrenes cantando y paseando por el pantano con sorprendente agilidad. Son 6.
-Un lebrén negro lidera el grupo. En el centro hay un caracol gigante. 
-
-Agdón Bufandón
-
-El conejo azabache se presenta como Jebbek. Orejas con puntitas blancas y un poco caídas. Lleva un casco de conquistador español
-
-Estamos en el reino de , muy poderosa, Bavlorna Briznamarchita. 
-En Prismalia hay una serie de normas que imperan. El uso del propio haber
-"Si amigo , furtador no debes ser "
-Sus palabras son honestas, pero obviamente nos pide el paso del puente. 
-Se saca una calabaza del cinto. 
-
 
 ---
 
-Luz era un noble de una ciudad importante del umbro.
-Bruja era el hijo de unos sirvientes de Luz
-Luz estaba muy solo siempre y Bruja era el único que se acercaba.
-Para medrar en la sociedad tienes que ser un sanguinario hijo de puta. 
-Inflingir dolor y miedo. 
-Bruja le enseñó que no era el único camino.
+
 
 ---
 [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP006 - 20250313\|<- Anterior]] | [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP008 - 20250409\|Siguiente ->]]

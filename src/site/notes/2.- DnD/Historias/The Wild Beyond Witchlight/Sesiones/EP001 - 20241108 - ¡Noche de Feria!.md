@@ -249,8 +249,5 @@ La última vez que estuvo en la feria escuchó de los dueños lo siguiente:
 Calderina no puede pasar a Prismalia, pero la Hermandad de los Ecos Perdidos, sí.
 Deciden trabajar juntos.
 
-**-- FIN --**
-
-
 ---
 [[2.- DnD/Historias/The Wild Beyond Witchlight/Index de Brujaluz\|<- Anterior]] | [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP002 - 20241121 - Juegos de Hadas\|Siguiente ->]]

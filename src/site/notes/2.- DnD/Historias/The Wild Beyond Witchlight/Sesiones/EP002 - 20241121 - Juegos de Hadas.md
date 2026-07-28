@@ -108,7 +108,5 @@ Luz es recuerda que no se pierdan la Gran Extravaganza y luego les invita a irse
 Pueden ver por unos segundos el reloj de Bruja, mientras este lo ojea.
 Lirael le contesta convirtiendo con una minor illusion, el globo en una mano que saca el dedo. Gaco se ríe un poco.
 
-**-- FIN --**
-
 ---
 [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP001 - 20241108 - ¡Noche de Feria!\|<- Anterior]] | [[2.- DnD/Historias/The Wild Beyond Witchlight/Sesiones/EP003 - 20241127 - La Gran Extravaganza\|Siguiente ->]]
