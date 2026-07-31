@@ -1,0 +1,18 @@
+name: Avisar a Observatorio Arcano
+# Al publicar en Obsidian (push a este repo), avisa a la web para que se
+# reconstruya y despliegue al instante.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Disparar rebuild de la web
+        run: |
+          curl -sf -X POST \
+            -H "Authorization: token ${{ secrets.CRONICASDND }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/ilucepri/cronicas-dnd/dispatches \
+            -d '{"event_type":"notes-updated"}'
