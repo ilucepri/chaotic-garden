@@ -18,3 +18,5 @@
 
 - [[2.- DnD/Historias/La conspiración del libro rojo/Sesiones/EP01 - 20260705\|EP01 - 20260705 - La carta de Bilbo]]
 - [[2.- DnD/Historias/La conspiración del libro rojo/Sesiones/EP02 - 20260726\|EP02 - 20260726 - Camino de Cavada Grande]]
+- [[2.- DnD/Historias/La conspiración del libro rojo/Sesiones/EP03 - 20260802\|EP03 - 20260802 - El robo del mapa]]
+- [[2.- DnD/Historias/La conspiración del libro rojo/Sesiones/EP04 - 20260906\|EP04 - 20260906]]
