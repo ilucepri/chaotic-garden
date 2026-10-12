@@ -20,4 +20,5 @@
 - [[2.- DnD/Historias/La conspiración del libro rojo/Sesiones/EP02 - 20260726\|EP02 - 20260726 - Camino de Cavada Grande]]
 - [[2.- DnD/Historias/La conspiración del libro rojo/Sesiones/EP03 - 20260802\|EP03 - 20260802 - El robo del mapa]]
 - [[2.- DnD/Historias/La conspiración del libro rojo/Sesiones/EP04 - 20260906\|EP04 - 20260906 - La porra del Viejo Tuk]]
-- [[2.- DnD/Historias/La conspiración del libro rojo/Sesiones/EP05 - 20260920\|EP05 - 20260920]]
+- [[2.- DnD/Historias/La conspiración del libro rojo/Sesiones/EP05 - 20260920\|EP05 - 20260920 - El fantasma y la porra perdida]]
+- [[2.- DnD/Historias/La conspiración del libro rojo/Sesiones/EP06 - 20261011\|EP06 - 20261011]]

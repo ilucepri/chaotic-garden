@@ -107,4 +107,4 @@ Kreb Shenkel es el tabernero
 El tercio del rumbo fijo.
 
 ---
-[[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP021 - 20260921 - El precio de los traidores\|<- Anterior]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP023 - 20261005\|Siguiente ->]]
+[[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP021 - 20260921 - El precio de los traidores\|<- Anterior]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP023 - 20261005 - Vigilados\|Siguiente ->]]
