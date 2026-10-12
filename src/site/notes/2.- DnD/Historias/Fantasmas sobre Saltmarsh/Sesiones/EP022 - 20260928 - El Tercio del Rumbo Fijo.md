@@ -39,6 +39,8 @@ Entre los peligros y hallazgos:
 
 ## **COMBATE — Estirges de la buhardilla**
 
+![EP022 - 20260928.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/EP022%20-%2020260928.png)
+
 Las estirges se descuelgan de las vigas, famélicas. Se lanzan sobre Genya y Lodd; al hostigar a Genya lo obligan a soltar la cuerda del garfio, y Virellia cae los diez pies que la separan del suelo (un golpe leve). Resultan sorprendentemente duras para lo débiles que parecen: una le chupa la sangre a Lodd y casi lo deja seco, y otra, al morir, le estalla en la cara. Entre el tridente de Genya, el sable de Dravok, los Finger Guns de Virellia y el bastón de Lodd, las bestias hambrientas acaban hechas fosfatina.
 
 ## Eliander no juega a morir
@@ -88,23 +90,6 @@ El libro se titula **El Tercio del Rumbo Fijo**. Narra la leyenda de un navío q
 - **REVELACIÓN, el primer Lord:** el símbolo del timón y la tuerca es el emblema de **El Tercio del Rumbo Fijo**, un tercio pirata legendario al servicio del Lord **Baltar, el Forjador**; su navío, el **Leviatán de Cúbrega**; su hito, la **batalla de las Aguas Muertas**. Conecta directamente al Ejecutor y los Lores del Mar con Baltar.
 - **Hallazgos menores:** una **muñeca de jade** (20 mo) y un **vial de moho venenoso** (posible arma de esporas).
 - **Arkos ausente esta sesión** (el personaje sigue en la ficción: prestó a Virellia una melodía de inspiración en la biblioteca).
-
----
-*Notas de sesión originales:*
-
-Botaas de cuero agrietadas, una capa colada de un percha y nada más. Diseño de hojas de hiedra entrelazadas. Los pliegues cubiertos de un moho amarillo. 
-
-![EP022 - 20260928.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/EP022%20-%2020260928.png)
-
-Estirges!!
-
-Hermoso vestido blanco en un inmenso charco rojo.
-
-Kreb Shenkel es el tabernero
-
-
-
-El tercio del rumbo fijo.
 
 ---
 [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP021 - 20260921 - El precio de los traidores\|<- Anterior]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP023 - 20261005 - Vigilados\|Siguiente ->]]
