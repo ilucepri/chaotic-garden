@@ -103,4 +103,4 @@ A la derecha hay un enjuto y con el pelo menos arreglado Philippe.
 ![EP024 - 20261012.png](/img/user/2.-%20DnD/Historias/Fantasmas%20sobre%20Saltmarsh/Docs/EP024%20-%2020261012.png)
 
 ---
-[[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP023 - 20261005 - Vigilados\|<- Anterior]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP025 - 20261019\|Siguiente ->]]
+[[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP023 - 20261005 - Vigilados\|<- Anterior]] | [[2.- DnD/Historias/Fantasmas sobre Saltmarsh/Sesiones/EP025 - 20261019 - Mensaje en una botella\|Siguiente ->]]
